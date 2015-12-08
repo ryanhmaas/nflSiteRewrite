@@ -1,0 +1,12 @@
+md-card {
+  padding: 20px;
+}
+
+main {
+  min-height: calc(100vh - 176px);
+}
+
+
+.contactEmail{
+  border-radius:13px;
+}

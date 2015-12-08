@@ -1,0 +1,17 @@
+{
+  "name": "nflsiterewrite",
+  "version": "1.0.0",
+  "description": "rewrite of NFL scraping site",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan Maas",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "method-override": "^2.3.5",
+    "mongoose": "^4.2.9"
+  }
+}

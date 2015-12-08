@@ -1,0 +1,50 @@
+<!-- public/views/index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>NFL Stats</title>
+    <base href="/">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="libs/angular-material/angular-material.css">
+    <link rel="stylesheet" href="libs/font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="libs/angular/angular.js"></script>
+    <script src="libs/angular-animate/angular-animate.js"></script>
+    <script src="libs/angular-aria/angular-aria.js"></script>
+    <script src="libs/angular-route/angular-route.min.js"></script>
+    <script src="libs/angular-material/angular-material.js"></script>
+    <!-- ANGULAR CUSTOM -->
+    <script src="js/controllers/MainCtrl.js"></script>
+    <script src="js/controllers/ContactCtrl.js"></script>
+    <script src="js/appRoutes.js"></script>
+    <script src="js/app.js"></script>
+</head>
+<body ng-app= "app">
+    <div ng-controller= "MainController" flex>
+      <!--Toolbar-->
+      <md-sidenav md-component-id="left" class="md-sidenav-left">
+        Left Nav!
+      </md-sidenav>
+      <md-toolbar class='md-medium-tall'>
+        <div class="md-toolbar-tools" >
+          <md-button class="menu" aria-label="..." ng-click="openLeftMenu()"><i class="fa fa-bars fa-2x"></i></md-button>
+          <span>NFL Stats</span>
+          <md-button href="/" >home</md-button>
+          <md-button href="/contact">Contact</md-button>
+          <div flex></div>
+        </div>
+      </md-toolbar>
+      <main class='md-padding' layout="row" flex ng-view>
+
+      </main>
+
+      <!--Footer-->
+      <md-toolbar class="md-medium-tall">
+        <div layout="row" layout-align="center center" flex>
+          <span>FOOTER</span>
+        </div>
+      </md-toolbar>
+    </div>
+  </body>
+</html>

@@ -1,1 +1,1 @@
-angular.module('app', ['ngMaterial', 'appRoutes', 'MainCtrl', 'ContactCtrl']);
+angular.module('app', ['ngMaterial', 'ngMdIcons', 'themeConfig', 'userAv', 'appRoutes', 'MainCtrl', 'ContactCtrl']);

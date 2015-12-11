@@ -1,8 +1,10 @@
 //server.js
-var express         = require('express');
-var app             = express();
-var bodyParser      = require('body-parser');
-var methodOverride  = require('method-override');
+var express           = require('express');
+var app               = express();
+var bodyParser        = require('body-parser');
+var methodOverride    = require('method-override');
+var CronJob        = require('cron').CronJob;
+var scheduleScraper   = require('./app/taskRunners/schedule');
 
 // set our port
 var port = process.env.PORT || 8080;
@@ -36,6 +38,11 @@ app.listen(port);
 
 // shoutout to the user
 console.log('Magic happens on port ' + port);
+
+
+//run scrapers
+scheduleScraper.runScraper();
+
 
 // expose app
 exports = module.exports = app;

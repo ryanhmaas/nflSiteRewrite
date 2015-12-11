@@ -6,7 +6,7 @@ angular.module('MainCtrl', ['ngMaterial', 'ngMdIcons'])
   };
     $scope.menu = [
     {
-      link : '/contact',
+      link : '/schedule',
       title: 'Schedule',
 			class : 'sidenav-item-link',
       icon: 'fa fa-calendar'

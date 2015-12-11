@@ -9,10 +9,19 @@ angular.module('appRoutes', ['ngRoute']).config(['$routeProvider', '$locationPro
           controller: 'MainController'
       })
 
-      // nerds page that will use the NerdController
       .when('/contact', {
           templateUrl: 'views/contact.html',
           controller: 'ContactController'
+      })
+
+      .when('/schedule', {
+        templateUrl: 'views/schedule.html',
+        controller: 'ScheduleController'
+      })
+
+      .when('/standings', {
+        templateUrl: 'views/standings.html',
+        controller: 'StandingsController'
       });
   $locationProvider.html5Mode(true);
 }]);

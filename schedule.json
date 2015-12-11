@@ -1,0 +1,1353 @@
+[
+    {
+        "week": "1",
+        "winner": "New England Patriots",
+        "loser": "Pittsburgh Steelers",
+        "winnerScore": "28",
+        "loserScore": "21"
+    },
+    {
+        "week": "1",
+        "winner": "San Diego Chargers",
+        "loser": "Detroit Lions",
+        "winnerScore": "33",
+        "loserScore": "28"
+    },
+    {
+        "week": "1",
+        "winner": "Buffalo Bills",
+        "loser": "Indianapolis Colts",
+        "winnerScore": "27",
+        "loserScore": "14"
+    },
+    {
+        "week": "1",
+        "winner": "New York Jets",
+        "loser": "Cleveland Browns",
+        "winnerScore": "31",
+        "loserScore": "10"
+    },
+    {
+        "week": "1",
+        "winner": "Cincinnati Bengals",
+        "loser": "Oakland Raiders",
+        "winnerScore": "33",
+        "loserScore": "13"
+    },
+    {
+        "week": "1",
+        "winner": "Arizona Cardinals",
+        "loser": "New Orleans Saints",
+        "winnerScore": "31",
+        "loserScore": "19"
+    },
+    {
+        "week": "1",
+        "winner": "Carolina Panthers",
+        "loser": "Jacksonville Jaguars",
+        "winnerScore": "20",
+        "loserScore": "9"
+    },
+    {
+        "week": "1",
+        "winner": "Denver Broncos",
+        "loser": "Baltimore Ravens",
+        "winnerScore": "19",
+        "loserScore": "13"
+    },
+    {
+        "week": "1",
+        "winner": "Dallas Cowboys",
+        "loser": "New York Giants",
+        "winnerScore": "27",
+        "loserScore": "26"
+    },
+    {
+        "week": "1",
+        "winner": "St. Louis Rams",
+        "loser": "Seattle Seahawks",
+        "winnerScore": "34",
+        "loserScore": "31"
+    },
+    {
+        "week": "1",
+        "winner": "Kansas City Chiefs",
+        "loser": "Houston Texans",
+        "winnerScore": "27",
+        "loserScore": "20"
+    },
+    {
+        "week": "1",
+        "winner": "Green Bay Packers",
+        "loser": "Chicago Bears",
+        "winnerScore": "31",
+        "loserScore": "23"
+    },
+    {
+        "week": "1",
+        "winner": "Miami Dolphins",
+        "loser": "Washington Redskins",
+        "winnerScore": "17",
+        "loserScore": "10"
+    },
+    {
+        "week": "1",
+        "winner": "Tennessee Titans",
+        "loser": "Tampa Bay Buccaneers",
+        "winnerScore": "42",
+        "loserScore": "14"
+    },
+    {
+        "week": "1",
+        "winner": "San Francisco 49ers",
+        "loser": "Minnesota Vikings",
+        "winnerScore": "20",
+        "loserScore": "3"
+    },
+    {
+        "week": "1",
+        "winner": "Atlanta Falcons",
+        "loser": "Philadelphia Eagles",
+        "winnerScore": "26",
+        "loserScore": "24"
+    },
+    {
+        "week": "2",
+        "winner": "Denver Broncos",
+        "loser": "Kansas City Chiefs",
+        "winnerScore": "31",
+        "loserScore": "24"
+    },
+    {
+        "week": "2",
+        "winner": "Atlanta Falcons",
+        "loser": "New York Giants",
+        "winnerScore": "24",
+        "loserScore": "20"
+    },
+    {
+        "week": "2",
+        "winner": "Tampa Bay Buccaneers",
+        "loser": "New Orleans Saints",
+        "winnerScore": "26",
+        "loserScore": "19"
+    },
+    {
+        "week": "2",
+        "winner": "Washington Redskins",
+        "loser": "St. Louis Rams",
+        "winnerScore": "24",
+        "loserScore": "10"
+    },
+    {
+        "week": "2",
+        "winner": "Carolina Panthers",
+        "loser": "Houston Texans",
+        "winnerScore": "24",
+        "loserScore": "17"
+    },
+    {
+        "week": "2",
+        "winner": "Minnesota Vikings",
+        "loser": "Detroit Lions",
+        "winnerScore": "26",
+        "loserScore": "16"
+    },
+    {
+        "week": "2",
+        "winner": "Cincinnati Bengals",
+        "loser": "San Diego Chargers",
+        "winnerScore": "24",
+        "loserScore": "19"
+    },
+    {
+        "week": "2",
+        "winner": "Cleveland Browns",
+        "loser": "Tennessee Titans",
+        "winnerScore": "28",
+        "loserScore": "14"
+    },
+    {
+        "week": "2",
+        "winner": "Jacksonville Jaguars",
+        "loser": "Miami Dolphins",
+        "winnerScore": "23",
+        "loserScore": "20"
+    },
+    {
+        "week": "2",
+        "winner": "Dallas Cowboys",
+        "loser": "Philadelphia Eagles",
+        "winnerScore": "20",
+        "loserScore": "10"
+    },
+    {
+        "week": "2",
+        "winner": "Pittsburgh Steelers",
+        "loser": "San Francisco 49ers",
+        "winnerScore": "43",
+        "loserScore": "18"
+    },
+    {
+        "week": "2",
+        "winner": "Arizona Cardinals",
+        "loser": "Chicago Bears",
+        "winnerScore": "48",
+        "loserScore": "23"
+    },
+    {
+        "week": "2",
+        "winner": "Green Bay Packers",
+        "loser": "Seattle Seahawks",
+        "winnerScore": "27",
+        "loserScore": "17"
+    },
+    {
+        "week": "2",
+        "winner": "Oakland Raiders",
+        "loser": "Baltimore Ravens",
+        "winnerScore": "37",
+        "loserScore": "33"
+    },
+    {
+        "week": "2",
+        "winner": "New England Patriots",
+        "loser": "Buffalo Bills",
+        "winnerScore": "40",
+        "loserScore": "32"
+    },
+    {
+        "week": "2",
+        "winner": "New York Jets",
+        "loser": "Indianapolis Colts",
+        "winnerScore": "20",
+        "loserScore": "7"
+    },
+    {
+        "week": "3",
+        "winner": "New York Giants",
+        "loser": "Washington Redskins",
+        "winnerScore": "32",
+        "loserScore": "21"
+    },
+    {
+        "week": "3",
+        "winner": "Carolina Panthers",
+        "loser": "New Orleans Saints",
+        "winnerScore": "27",
+        "loserScore": "22"
+    },
+    {
+        "week": "3",
+        "winner": "Philadelphia Eagles",
+        "loser": "New York Jets",
+        "winnerScore": "24",
+        "loserScore": "17"
+    },
+    {
+        "week": "3",
+        "winner": "Pittsburgh Steelers",
+        "loser": "St. Louis Rams",
+        "winnerScore": "12",
+        "loserScore": "6"
+    },
+    {
+        "week": "3",
+        "winner": "Houston Texans",
+        "loser": "Tampa Bay Buccaneers",
+        "winnerScore": "19",
+        "loserScore": "9"
+    },
+    {
+        "week": "3",
+        "winner": "Arizona Cardinals",
+        "loser": "San Francisco 49ers",
+        "winnerScore": "47",
+        "loserScore": "7"
+    },
+    {
+        "week": "3",
+        "winner": "Atlanta Falcons",
+        "loser": "Dallas Cowboys",
+        "winnerScore": "39",
+        "loserScore": "28"
+    },
+    {
+        "week": "3",
+        "winner": "New England Patriots",
+        "loser": "Jacksonville Jaguars",
+        "winnerScore": "51",
+        "loserScore": "17"
+    },
+    {
+        "week": "3",
+        "winner": "Denver Broncos",
+        "loser": "Detroit Lions",
+        "winnerScore": "24",
+        "loserScore": "12"
+    },
+    {
+        "week": "3",
+        "winner": "Cincinnati Bengals",
+        "loser": "Baltimore Ravens",
+        "winnerScore": "28",
+        "loserScore": "24"
+    },
+    {
+        "week": "3",
+        "winner": "Indianapolis Colts",
+        "loser": "Tennessee Titans",
+        "winnerScore": "35",
+        "loserScore": "33"
+    },
+    {
+        "week": "3",
+        "winner": "Seattle Seahawks",
+        "loser": "Chicago Bears",
+        "winnerScore": "26",
+        "loserScore": "0"
+    },
+    {
+        "week": "3",
+        "winner": "Oakland Raiders",
+        "loser": "Cleveland Browns",
+        "winnerScore": "27",
+        "loserScore": "20"
+    },
+    {
+        "week": "3",
+        "winner": "Minnesota Vikings",
+        "loser": "San Diego Chargers",
+        "winnerScore": "31",
+        "loserScore": "14"
+    },
+    {
+        "week": "3",
+        "winner": "Buffalo Bills",
+        "loser": "Miami Dolphins",
+        "winnerScore": "41",
+        "loserScore": "14"
+    },
+    {
+        "week": "3",
+        "winner": "Green Bay Packers",
+        "loser": "Kansas City Chiefs",
+        "winnerScore": "38",
+        "loserScore": "28"
+    },
+    {
+        "week": "4",
+        "winner": "Baltimore Ravens",
+        "loser": "Pittsburgh Steelers",
+        "winnerScore": "23",
+        "loserScore": "20"
+    },
+    {
+        "week": "4",
+        "winner": "New York Giants",
+        "loser": "Buffalo Bills",
+        "winnerScore": "24",
+        "loserScore": "10"
+    },
+    {
+        "week": "4",
+        "winner": "New Orleans Saints",
+        "loser": "Dallas Cowboys",
+        "winnerScore": "26",
+        "loserScore": "20"
+    },
+    {
+        "week": "4",
+        "winner": "Denver Broncos",
+        "loser": "Minnesota Vikings",
+        "winnerScore": "23",
+        "loserScore": "20"
+    },
+    {
+        "week": "4",
+        "winner": "San Diego Chargers",
+        "loser": "Cleveland Browns",
+        "winnerScore": "30",
+        "loserScore": "27"
+    },
+    {
+        "week": "4",
+        "winner": "Cincinnati Bengals",
+        "loser": "Kansas City Chiefs",
+        "winnerScore": "36",
+        "loserScore": "21"
+    },
+    {
+        "week": "4",
+        "winner": "Indianapolis Colts",
+        "loser": "Jacksonville Jaguars",
+        "winnerScore": "16",
+        "loserScore": "13"
+    },
+    {
+        "week": "4",
+        "winner": "Atlanta Falcons",
+        "loser": "Houston Texans",
+        "winnerScore": "48",
+        "loserScore": "21"
+    },
+    {
+        "week": "4",
+        "winner": "New York Jets",
+        "loser": "Miami Dolphins",
+        "winnerScore": "27",
+        "loserScore": "14"
+    },
+    {
+        "week": "4",
+        "winner": "Chicago Bears",
+        "loser": "Oakland Raiders",
+        "winnerScore": "22",
+        "loserScore": "20"
+    },
+    {
+        "week": "4",
+        "winner": "Carolina Panthers",
+        "loser": "Tampa Bay Buccaneers",
+        "winnerScore": "37",
+        "loserScore": "23"
+    },
+    {
+        "week": "4",
+        "winner": "Green Bay Packers",
+        "loser": "San Francisco 49ers",
+        "winnerScore": "17",
+        "loserScore": "3"
+    },
+    {
+        "week": "4",
+        "winner": "St. Louis Rams",
+        "loser": "Arizona Cardinals",
+        "winnerScore": "24",
+        "loserScore": "22"
+    },
+    {
+        "week": "4",
+        "winner": "Washington Redskins",
+        "loser": "Philadelphia Eagles",
+        "winnerScore": "23",
+        "loserScore": "20"
+    },
+    {
+        "week": "4",
+        "winner": "Seattle Seahawks",
+        "loser": "Detroit Lions",
+        "winnerScore": "13",
+        "loserScore": "10"
+    },
+    {
+        "week": "5",
+        "winner": "Indianapolis Colts",
+        "loser": "Houston Texans",
+        "winnerScore": "27",
+        "loserScore": "20"
+    },
+    {
+        "week": "5",
+        "winner": "Cleveland Browns",
+        "loser": "Baltimore Ravens",
+        "winnerScore": "33",
+        "loserScore": "30"
+    },
+    {
+        "week": "5",
+        "winner": "Cincinnati Bengals",
+        "loser": "Seattle Seahawks",
+        "winnerScore": "27",
+        "loserScore": "24"
+    },
+    {
+        "week": "5",
+        "winner": "Buffalo Bills",
+        "loser": "Tennessee Titans",
+        "winnerScore": "14",
+        "loserScore": "13"
+    },
+    {
+        "week": "5",
+        "winner": "New York Giants",
+        "loser": "San Francisco 49ers",
+        "winnerScore": "30",
+        "loserScore": "27"
+    },
+    {
+        "week": "5",
+        "winner": "Philadelphia Eagles",
+        "loser": "New Orleans Saints",
+        "winnerScore": "39",
+        "loserScore": "17"
+    },
+    {
+        "week": "5",
+        "winner": "Denver Broncos",
+        "loser": "Oakland Raiders",
+        "winnerScore": "16",
+        "loserScore": "10"
+    },
+    {
+        "week": "5",
+        "winner": "Arizona Cardinals",
+        "loser": "Detroit Lions",
+        "winnerScore": "42",
+        "loserScore": "17"
+    },
+    {
+        "week": "5",
+        "winner": "Atlanta Falcons",
+        "loser": "Washington Redskins",
+        "winnerScore": "25",
+        "loserScore": "19"
+    },
+    {
+        "week": "5",
+        "winner": "Green Bay Packers",
+        "loser": "St. Louis Rams",
+        "winnerScore": "24",
+        "loserScore": "10"
+    },
+    {
+        "week": "5",
+        "winner": "Tampa Bay Buccaneers",
+        "loser": "Jacksonville Jaguars",
+        "winnerScore": "38",
+        "loserScore": "31"
+    },
+    {
+        "week": "5",
+        "winner": "New England Patriots",
+        "loser": "Dallas Cowboys",
+        "winnerScore": "30",
+        "loserScore": "6"
+    },
+    {
+        "week": "5",
+        "winner": "Chicago Bears",
+        "loser": "Kansas City Chiefs",
+        "winnerScore": "18",
+        "loserScore": "17"
+    },
+    {
+        "week": "5",
+        "winner": "Pittsburgh Steelers",
+        "loser": "San Diego Chargers",
+        "winnerScore": "24",
+        "loserScore": "20"
+    },
+    {
+        "week": "6",
+        "winner": "New Orleans Saints",
+        "loser": "Atlanta Falcons",
+        "winnerScore": "31",
+        "loserScore": "21"
+    },
+    {
+        "week": "6",
+        "winner": "New York Jets",
+        "loser": "Washington Redskins",
+        "winnerScore": "34",
+        "loserScore": "20"
+    },
+    {
+        "week": "6",
+        "winner": "Carolina Panthers",
+        "loser": "Seattle Seahawks",
+        "winnerScore": "27",
+        "loserScore": "23"
+    },
+    {
+        "week": "6",
+        "winner": "Miami Dolphins",
+        "loser": "Tennessee Titans",
+        "winnerScore": "38",
+        "loserScore": "10"
+    },
+    {
+        "week": "6",
+        "winner": "Green Bay Packers",
+        "loser": "San Diego Chargers",
+        "winnerScore": "27",
+        "loserScore": "20"
+    },
+    {
+        "week": "6",
+        "winner": "San Francisco 49ers",
+        "loser": "Baltimore Ravens",
+        "winnerScore": "25",
+        "loserScore": "20"
+    },
+    {
+        "week": "6",
+        "winner": "Houston Texans",
+        "loser": "Jacksonville Jaguars",
+        "winnerScore": "31",
+        "loserScore": "20"
+    },
+    {
+        "week": "6",
+        "winner": "Cincinnati Bengals",
+        "loser": "Buffalo Bills",
+        "winnerScore": "34",
+        "loserScore": "21"
+    },
+    {
+        "week": "6",
+        "winner": "Pittsburgh Steelers",
+        "loser": "Arizona Cardinals",
+        "winnerScore": "25",
+        "loserScore": "13"
+    },
+    {
+        "week": "6",
+        "winner": "Minnesota Vikings",
+        "loser": "Kansas City Chiefs",
+        "winnerScore": "16",
+        "loserScore": "10"
+    },
+    {
+        "week": "6",
+        "winner": "New England Patriots",
+        "loser": "Indianapolis Colts",
+        "winnerScore": "34",
+        "loserScore": "27"
+    },
+    {
+        "week": "6",
+        "winner": "Detroit Lions",
+        "loser": "Chicago Bears",
+        "winnerScore": "37",
+        "loserScore": "34"
+    },
+    {
+        "week": "6",
+        "winner": "Denver Broncos",
+        "loser": "Cleveland Browns",
+        "winnerScore": "26",
+        "loserScore": "23"
+    },
+    {
+        "week": "6",
+        "winner": "Philadelphia Eagles",
+        "loser": "New York Giants",
+        "winnerScore": "27",
+        "loserScore": "7"
+    },
+    {
+        "week": "7",
+        "winner": "Seattle Seahawks",
+        "loser": "San Francisco 49ers",
+        "winnerScore": "20",
+        "loserScore": "3"
+    },
+    {
+        "week": "7",
+        "winner": "New York Giants",
+        "loser": "Dallas Cowboys",
+        "winnerScore": "27",
+        "loserScore": "20"
+    },
+    {
+        "week": "7",
+        "winner": "Washington Redskins",
+        "loser": "Tampa Bay Buccaneers",
+        "winnerScore": "31",
+        "loserScore": "30"
+    },
+    {
+        "week": "7",
+        "winner": "Oakland Raiders",
+        "loser": "San Diego Chargers",
+        "winnerScore": "37",
+        "loserScore": "29"
+    },
+    {
+        "week": "7",
+        "winner": "Carolina Panthers",
+        "loser": "Philadelphia Eagles",
+        "winnerScore": "27",
+        "loserScore": "16"
+    },
+    {
+        "week": "7",
+        "winner": "New England Patriots",
+        "loser": "New York Jets",
+        "winnerScore": "30",
+        "loserScore": "23"
+    },
+    {
+        "week": "7",
+        "winner": "Miami Dolphins",
+        "loser": "Houston Texans",
+        "winnerScore": "44",
+        "loserScore": "26"
+    },
+    {
+        "week": "7",
+        "winner": "St. Louis Rams",
+        "loser": "Cleveland Browns",
+        "winnerScore": "24",
+        "loserScore": "6"
+    },
+    {
+        "week": "7",
+        "winner": "New Orleans Saints",
+        "loser": "Indianapolis Colts",
+        "winnerScore": "27",
+        "loserScore": "21"
+    },
+    {
+        "week": "7",
+        "winner": "Atlanta Falcons",
+        "loser": "Tennessee Titans",
+        "winnerScore": "10",
+        "loserScore": "7"
+    },
+    {
+        "week": "7",
+        "winner": "Kansas City Chiefs",
+        "loser": "Pittsburgh Steelers",
+        "winnerScore": "23",
+        "loserScore": "13"
+    },
+    {
+        "week": "7",
+        "winner": "Minnesota Vikings",
+        "loser": "Detroit Lions",
+        "winnerScore": "28",
+        "loserScore": "19"
+    },
+    {
+        "week": "7",
+        "winner": "Jacksonville Jaguars",
+        "loser": "Buffalo Bills",
+        "winnerScore": "34",
+        "loserScore": "31"
+    },
+    {
+        "week": "7",
+        "winner": "Arizona Cardinals",
+        "loser": "Baltimore Ravens",
+        "winnerScore": "26",
+        "loserScore": "18"
+    },
+    {
+        "week": "8",
+        "winner": "New England Patriots",
+        "loser": "Miami Dolphins",
+        "winnerScore": "36",
+        "loserScore": "7"
+    },
+    {
+        "week": "8",
+        "winner": "Minnesota Vikings",
+        "loser": "Chicago Bears",
+        "winnerScore": "23",
+        "loserScore": "20"
+    },
+    {
+        "week": "8",
+        "winner": "Oakland Raiders",
+        "loser": "New York Jets",
+        "winnerScore": "34",
+        "loserScore": "20"
+    },
+    {
+        "week": "8",
+        "winner": "Seattle Seahawks",
+        "loser": "Dallas Cowboys",
+        "winnerScore": "13",
+        "loserScore": "12"
+    },
+    {
+        "week": "8",
+        "winner": "St. Louis Rams",
+        "loser": "San Francisco 49ers",
+        "winnerScore": "27",
+        "loserScore": "6"
+    },
+    {
+        "week": "8",
+        "winner": "Cincinnati Bengals",
+        "loser": "Pittsburgh Steelers",
+        "winnerScore": "16",
+        "loserScore": "10"
+    },
+    {
+        "week": "8",
+        "winner": "Denver Broncos",
+        "loser": "Green Bay Packers",
+        "winnerScore": "29",
+        "loserScore": "10"
+    },
+    {
+        "week": "8",
+        "winner": "Kansas City Chiefs",
+        "loser": "Detroit Lions",
+        "winnerScore": "45",
+        "loserScore": "10"
+    },
+    {
+        "week": "8",
+        "winner": "Houston Texans",
+        "loser": "Tennessee Titans",
+        "winnerScore": "20",
+        "loserScore": "6"
+    },
+    {
+        "week": "8",
+        "winner": "Baltimore Ravens",
+        "loser": "San Diego Chargers",
+        "winnerScore": "29",
+        "loserScore": "26"
+    },
+    {
+        "week": "8",
+        "winner": "Arizona Cardinals",
+        "loser": "Cleveland Browns",
+        "winnerScore": "34",
+        "loserScore": "20"
+    },
+    {
+        "week": "8",
+        "winner": "Tampa Bay Buccaneers",
+        "loser": "Atlanta Falcons",
+        "winnerScore": "23",
+        "loserScore": "20"
+    },
+    {
+        "week": "8",
+        "winner": "New Orleans Saints",
+        "loser": "New York Giants",
+        "winnerScore": "52",
+        "loserScore": "49"
+    },
+    {
+        "week": "8",
+        "winner": "Carolina Panthers",
+        "loser": "Indianapolis Colts",
+        "winnerScore": "29",
+        "loserScore": "26"
+    },
+    {
+        "week": "9",
+        "winner": "Cincinnati Bengals",
+        "loser": "Cleveland Browns",
+        "winnerScore": "31",
+        "loserScore": "10"
+    },
+    {
+        "week": "9",
+        "winner": "New England Patriots",
+        "loser": "Washington Redskins",
+        "winnerScore": "27",
+        "loserScore": "10"
+    },
+    {
+        "week": "9",
+        "winner": "Minnesota Vikings",
+        "loser": "St. Louis Rams",
+        "winnerScore": "21",
+        "loserScore": "18"
+    },
+    {
+        "week": "9",
+        "winner": "Buffalo Bills",
+        "loser": "Miami Dolphins",
+        "winnerScore": "33",
+        "loserScore": "17"
+    },
+    {
+        "week": "9",
+        "winner": "Philadelphia Eagles",
+        "loser": "Dallas Cowboys",
+        "winnerScore": "33",
+        "loserScore": "27"
+    },
+    {
+        "week": "9",
+        "winner": "Carolina Panthers",
+        "loser": "Green Bay Packers",
+        "winnerScore": "37",
+        "loserScore": "29"
+    },
+    {
+        "week": "9",
+        "winner": "New York Jets",
+        "loser": "Jacksonville Jaguars",
+        "winnerScore": "28",
+        "loserScore": "23"
+    },
+    {
+        "week": "9",
+        "winner": "Indianapolis Colts",
+        "loser": "Denver Broncos",
+        "winnerScore": "27",
+        "loserScore": "24"
+    },
+    {
+        "week": "9",
+        "winner": "New York Giants",
+        "loser": "Tampa Bay Buccaneers",
+        "winnerScore": "32",
+        "loserScore": "18"
+    },
+    {
+        "week": "9",
+        "winner": "Pittsburgh Steelers",
+        "loser": "Oakland Raiders",
+        "winnerScore": "38",
+        "loserScore": "35"
+    },
+    {
+        "week": "9",
+        "winner": "San Francisco 49ers",
+        "loser": "Atlanta Falcons",
+        "winnerScore": "17",
+        "loserScore": "16"
+    },
+    {
+        "week": "9",
+        "winner": "Tennessee Titans",
+        "loser": "New Orleans Saints",
+        "winnerScore": "34",
+        "loserScore": "28"
+    },
+    {
+        "week": "9",
+        "winner": "Chicago Bears",
+        "loser": "San Diego Chargers",
+        "winnerScore": "22",
+        "loserScore": "19"
+    },
+    {
+        "week": "10",
+        "winner": "Buffalo Bills",
+        "loser": "New York Jets",
+        "winnerScore": "22",
+        "loserScore": "17"
+    },
+    {
+        "week": "10",
+        "winner": "Carolina Panthers",
+        "loser": "Tennessee Titans",
+        "winnerScore": "27",
+        "loserScore": "10"
+    },
+    {
+        "week": "10",
+        "winner": "New England Patriots",
+        "loser": "New York Giants",
+        "winnerScore": "27",
+        "loserScore": "26"
+    },
+    {
+        "week": "10",
+        "winner": "Arizona Cardinals",
+        "loser": "Seattle Seahawks",
+        "winnerScore": "39",
+        "loserScore": "32"
+    },
+    {
+        "week": "10",
+        "winner": "Jacksonville Jaguars",
+        "loser": "Baltimore Ravens",
+        "winnerScore": "22",
+        "loserScore": "20"
+    },
+    {
+        "week": "10",
+        "winner": "Chicago Bears",
+        "loser": "St. Louis Rams",
+        "winnerScore": "37",
+        "loserScore": "13"
+    },
+    {
+        "week": "10",
+        "winner": "Tampa Bay Buccaneers",
+        "loser": "Dallas Cowboys",
+        "winnerScore": "10",
+        "loserScore": "6"
+    },
+    {
+        "week": "10",
+        "winner": "Minnesota Vikings",
+        "loser": "Oakland Raiders",
+        "winnerScore": "30",
+        "loserScore": "14"
+    },
+    {
+        "week": "10",
+        "winner": "Kansas City Chiefs",
+        "loser": "Denver Broncos",
+        "winnerScore": "29",
+        "loserScore": "13"
+    },
+    {
+        "week": "10",
+        "winner": "Miami Dolphins",
+        "loser": "Philadelphia Eagles",
+        "winnerScore": "20",
+        "loserScore": "19"
+    },
+    {
+        "week": "10",
+        "winner": "Detroit Lions",
+        "loser": "Green Bay Packers",
+        "winnerScore": "18",
+        "loserScore": "16"
+    },
+    {
+        "week": "10",
+        "winner": "Washington Redskins",
+        "loser": "New Orleans Saints",
+        "winnerScore": "47",
+        "loserScore": "14"
+    },
+    {
+        "week": "10",
+        "winner": "Pittsburgh Steelers",
+        "loser": "Cleveland Browns",
+        "winnerScore": "30",
+        "loserScore": "9"
+    },
+    {
+        "week": "10",
+        "winner": "Houston Texans",
+        "loser": "Cincinnati Bengals",
+        "winnerScore": "10",
+        "loserScore": "6"
+    },
+    {
+        "week": "11",
+        "winner": "Jacksonville Jaguars",
+        "loser": "Tennessee Titans",
+        "winnerScore": "19",
+        "loserScore": "13"
+    },
+    {
+        "week": "11",
+        "winner": "Tampa Bay Buccaneers",
+        "loser": "Philadelphia Eagles",
+        "winnerScore": "45",
+        "loserScore": "17"
+    },
+    {
+        "week": "11",
+        "winner": "Indianapolis Colts",
+        "loser": "Atlanta Falcons",
+        "winnerScore": "24",
+        "loserScore": "21"
+    },
+    {
+        "week": "11",
+        "winner": "Green Bay Packers",
+        "loser": "Minnesota Vikings",
+        "winnerScore": "30",
+        "loserScore": "13"
+    },
+    {
+        "week": "11",
+        "winner": "Seattle Seahawks",
+        "loser": "San Francisco 49ers",
+        "winnerScore": "29",
+        "loserScore": "13"
+    },
+    {
+        "week": "11",
+        "winner": "Denver Broncos",
+        "loser": "Chicago Bears",
+        "winnerScore": "17",
+        "loserScore": "15"
+    },
+    {
+        "week": "11",
+        "winner": "Arizona Cardinals",
+        "loser": "Cincinnati Bengals",
+        "winnerScore": "34",
+        "loserScore": "31"
+    },
+    {
+        "week": "11",
+        "winner": "Dallas Cowboys",
+        "loser": "Miami Dolphins",
+        "winnerScore": "24",
+        "loserScore": "14"
+    },
+    {
+        "week": "11",
+        "winner": "Detroit Lions",
+        "loser": "Oakland Raiders",
+        "winnerScore": "18",
+        "loserScore": "13"
+    },
+    {
+        "week": "11",
+        "winner": "Carolina Panthers",
+        "loser": "Washington Redskins",
+        "winnerScore": "44",
+        "loserScore": "16"
+    },
+    {
+        "week": "11",
+        "winner": "Baltimore Ravens",
+        "loser": "St. Louis Rams",
+        "winnerScore": "16",
+        "loserScore": "13"
+    },
+    {
+        "week": "11",
+        "winner": "Houston Texans",
+        "loser": "New York Jets",
+        "winnerScore": "24",
+        "loserScore": "17"
+    },
+    {
+        "week": "11",
+        "winner": "Kansas City Chiefs",
+        "loser": "San Diego Chargers",
+        "winnerScore": "33",
+        "loserScore": "3"
+    },
+    {
+        "week": "11",
+        "winner": "New England Patriots",
+        "loser": "Buffalo Bills",
+        "winnerScore": "20",
+        "loserScore": "13"
+    },
+    {
+        "week": "12",
+        "winner": "Carolina Panthers",
+        "loser": "Dallas Cowboys",
+        "winnerScore": "33",
+        "loserScore": "14"
+    },
+    {
+        "week": "12",
+        "winner": "Detroit Lions",
+        "loser": "Philadelphia Eagles",
+        "winnerScore": "45",
+        "loserScore": "14"
+    },
+    {
+        "week": "12",
+        "winner": "Chicago Bears",
+        "loser": "Green Bay Packers",
+        "winnerScore": "17",
+        "loserScore": "13"
+    },
+    {
+        "week": "12",
+        "winner": "Seattle Seahawks",
+        "loser": "Pittsburgh Steelers",
+        "winnerScore": "39",
+        "loserScore": "30"
+    },
+    {
+        "week": "12",
+        "winner": "New York Jets",
+        "loser": "Miami Dolphins",
+        "winnerScore": "38",
+        "loserScore": "20"
+    },
+    {
+        "week": "12",
+        "winner": "Arizona Cardinals",
+        "loser": "San Francisco 49ers",
+        "winnerScore": "19",
+        "loserScore": "13"
+    },
+    {
+        "week": "12",
+        "winner": "Minnesota Vikings",
+        "loser": "Atlanta Falcons",
+        "winnerScore": "20",
+        "loserScore": "10"
+    },
+    {
+        "week": "12",
+        "winner": "Kansas City Chiefs",
+        "loser": "Buffalo Bills",
+        "winnerScore": "30",
+        "loserScore": "22"
+    },
+    {
+        "week": "12",
+        "winner": "San Diego Chargers",
+        "loser": "Jacksonville Jaguars",
+        "winnerScore": "31",
+        "loserScore": "25"
+    },
+    {
+        "week": "12",
+        "winner": "Oakland Raiders",
+        "loser": "Tennessee Titans",
+        "winnerScore": "24",
+        "loserScore": "21"
+    },
+    {
+        "week": "12",
+        "winner": "Denver Broncos",
+        "loser": "New England Patriots",
+        "winnerScore": "30",
+        "loserScore": "24"
+    },
+    {
+        "week": "12",
+        "winner": "Houston Texans",
+        "loser": "New Orleans Saints",
+        "winnerScore": "24",
+        "loserScore": "6"
+    },
+    {
+        "week": "12",
+        "winner": "Washington Redskins",
+        "loser": "New York Giants",
+        "winnerScore": "20",
+        "loserScore": "14"
+    },
+    {
+        "week": "12",
+        "winner": "Indianapolis Colts",
+        "loser": "Tampa Bay Buccaneers",
+        "winnerScore": "25",
+        "loserScore": "12"
+    },
+    {
+        "week": "12",
+        "winner": "Cincinnati Bengals",
+        "loser": "St. Louis Rams",
+        "winnerScore": "31",
+        "loserScore": "7"
+    },
+    {
+        "week": "12",
+        "winner": "Baltimore Ravens",
+        "loser": "Cleveland Browns",
+        "winnerScore": "33",
+        "loserScore": "27"
+    },
+    {
+        "week": "13",
+        "winner": "Green Bay Packers",
+        "loser": "Detroit Lions",
+        "winnerScore": "27",
+        "loserScore": "23"
+    },
+    {
+        "week": "13",
+        "winner": "Tampa Bay Buccaneers",
+        "loser": "Atlanta Falcons",
+        "winnerScore": "23",
+        "loserScore": "19"
+    },
+    {
+        "week": "13",
+        "winner": "Cincinnati Bengals",
+        "loser": "Cleveland Browns",
+        "winnerScore": "37",
+        "loserScore": "3"
+    },
+    {
+        "week": "13",
+        "winner": "Carolina Panthers",
+        "loser": "New Orleans Saints",
+        "winnerScore": "41",
+        "loserScore": "38"
+    },
+    {
+        "week": "13",
+        "winner": "Arizona Cardinals",
+        "loser": "St. Louis Rams",
+        "winnerScore": "27",
+        "loserScore": "3"
+    },
+    {
+        "week": "13",
+        "winner": "Tennessee Titans",
+        "loser": "Jacksonville Jaguars",
+        "winnerScore": "42",
+        "loserScore": "39"
+    },
+    {
+        "week": "13",
+        "winner": "Seattle Seahawks",
+        "loser": "Minnesota Vikings",
+        "winnerScore": "38",
+        "loserScore": "7"
+    },
+    {
+        "week": "13",
+        "winner": "Kansas City Chiefs",
+        "loser": "Oakland Raiders",
+        "winnerScore": "34",
+        "loserScore": "20"
+    },
+    {
+        "week": "13",
+        "winner": "Miami Dolphins",
+        "loser": "Baltimore Ravens",
+        "winnerScore": "15",
+        "loserScore": "13"
+    },
+    {
+        "week": "13",
+        "winner": "New York Jets",
+        "loser": "New York Giants",
+        "winnerScore": "23",
+        "loserScore": "20"
+    },
+    {
+        "week": "13",
+        "winner": "Denver Broncos",
+        "loser": "San Diego Chargers",
+        "winnerScore": "17",
+        "loserScore": "3"
+    },
+    {
+        "week": "13",
+        "winner": "Pittsburgh Steelers",
+        "loser": "Indianapolis Colts",
+        "winnerScore": "45",
+        "loserScore": "10"
+    },
+    {
+        "week": "13",
+        "winner": "Buffalo Bills",
+        "loser": "Houston Texans",
+        "winnerScore": "30",
+        "loserScore": "21"
+    },
+    {
+        "week": "13",
+        "winner": "Philadelphia Eagles",
+        "loser": "New England Patriots",
+        "winnerScore": "35",
+        "loserScore": "28"
+    },
+    {
+        "week": "13",
+        "winner": "San Francisco 49ers",
+        "loser": "Chicago Bears",
+        "winnerScore": "26",
+        "loserScore": "20"
+    },
+    {
+        "week": "13",
+        "winner": "Dallas Cowboys",
+        "loser": "Washington Redskins",
+        "winnerScore": "19",
+        "loserScore": "16"
+    },
+    {
+        "week": "14",
+        "winner": "Arizona Cardinals",
+        "loser": "Minnesota Vikings",
+        "winnerScore": "23",
+        "loserScore": "20"
+    }
+]

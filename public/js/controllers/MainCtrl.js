@@ -12,7 +12,7 @@ angular.module('MainCtrl', ['ngMaterial', 'ngMdIcons'])
       icon: 'fa fa-calendar'
     },
     {
-      link : '/contact',
+      link : '/standings',
       title: 'Standings',
 			class: 'sidenav-item-link',
       icon: 'fa fa-list-alt'

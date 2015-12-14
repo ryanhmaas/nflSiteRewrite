@@ -1,1 +1,43 @@
-<h3>Schedule!</h3>
+<div layout="row">
+   <md-input-container style="margin-right: 10px;">
+     <label>Week</label>
+     <md-select ng-model="weekFilter">
+       <md-option ng-repeat="week in weeks " value="{{week}}">{{week}}</md-option>
+     </md-select>
+   </md-input-container>
+ </div>
+
+<md-grid-list
+  md-cols-sm="1" md-cols-md="2" md-cols-lg="3" md-cols-gt-lg="4"
+  md-row-height-gt-md="1.2:1" md-row-height="1:1"
+  md-gutter="50px" md-gutter-gt-sm="50px">
+
+<!--set to true to use strict comparison, otherwise it'll return values that contain others
+such as 12 when you select 2-->
+  <md-grid-tile class="yellow"  ng-repeat="game in schedule | filter:{week:weekFilter}:true">
+    <table class="">
+      <thead>
+        <th ng-if= "game.visitor">{{game.visitor}}</th>
+        <th ng-if= "game.winner">{{game.winner}}</th>
+          <th ng-if= "game.winner">vs.</th>
+          <th ng-if= "game.visitor">at </th>
+
+        <th ng-if= "game.home">{{game.home}}</th>
+        <th  ng-if= "game.loser">{{game.loser}}</th>
+      </thead>
+      <tbody>
+        <tr>
+          <td ng-if  = "game.winnerLogo"><img src="{{game.winnerLogo}}"></td>
+          <td ng-if= "game.visitorLogo"><img src="{{game.visitorLogo}}"></td>
+          <td></td>
+          <td ng-if = "game.homeLogo"><img src="{{game.homeLogo}}"></td>
+          <td ng-if= "game.loserLogo"><img src="{{game.loserLogo}}"></td>
+        </tr>
+        <tr>
+          <td>{{game.winnerScore}}</td>
+          <td>{{game.loserScore}}</td>
+      </tbody>
+    </table>
+    <md-grid-tile-footer><h3 layout-align="center center">{{game.date}}</h3> </md-grid-tile-footer>
+  </md-grid-tile>
+</md-grid-list>

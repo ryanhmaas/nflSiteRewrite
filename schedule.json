@@ -1,1353 +1,2466 @@
 [
     {
         "week": "1",
+        "date": "Thu, September 10",
         "winner": "New England Patriots",
         "loser": "Pittsburgh Steelers",
         "winnerScore": "28",
-        "loserScore": "21"
+        "loserScore": "21",
+        "winnerLogo": "img/NE.svg",
+        "loserLogo": "img/PIT.svg"
     },
     {
         "week": "1",
+        "date": "Sun, September 13",
         "winner": "San Diego Chargers",
         "loser": "Detroit Lions",
         "winnerScore": "33",
-        "loserScore": "28"
+        "loserScore": "28",
+        "winnerLogo": "img/SD.svg",
+        "loserLogo": "img/DET.svg"
     },
     {
         "week": "1",
+        "date": "Sun, September 13",
         "winner": "Buffalo Bills",
         "loser": "Indianapolis Colts",
         "winnerScore": "27",
-        "loserScore": "14"
+        "loserScore": "14",
+        "winnerLogo": "img/BUF.svg",
+        "loserLogo": "img/IND.svg"
     },
     {
         "week": "1",
+        "date": "Sun, September 13",
         "winner": "New York Jets",
         "loser": "Cleveland Browns",
         "winnerScore": "31",
-        "loserScore": "10"
+        "loserScore": "10",
+        "winnerLogo": "img/NYJ.svg",
+        "loserLogo": "img/CLE.svg"
     },
     {
         "week": "1",
+        "date": "Sun, September 13",
         "winner": "Cincinnati Bengals",
         "loser": "Oakland Raiders",
         "winnerScore": "33",
-        "loserScore": "13"
+        "loserScore": "13",
+        "winnerLogo": "img/CIN.svg",
+        "loserLogo": "img/OAK.svg"
     },
     {
         "week": "1",
+        "date": "Sun, September 13",
         "winner": "Arizona Cardinals",
         "loser": "New Orleans Saints",
         "winnerScore": "31",
-        "loserScore": "19"
+        "loserScore": "19",
+        "winnerLogo": "img/AZ.svg",
+        "loserLogo": "img/NO.svg"
     },
     {
         "week": "1",
+        "date": "Sun, September 13",
         "winner": "Carolina Panthers",
         "loser": "Jacksonville Jaguars",
         "winnerScore": "20",
-        "loserScore": "9"
+        "loserScore": "9",
+        "winnerLogo": "img/CAR.svg",
+        "loserLogo": "img/JAX.svg"
     },
     {
         "week": "1",
+        "date": "Sun, September 13",
         "winner": "Denver Broncos",
         "loser": "Baltimore Ravens",
         "winnerScore": "19",
-        "loserScore": "13"
+        "loserScore": "13",
+        "winnerLogo": "img/DEN.svg",
+        "loserLogo": "img/BAL.svg"
     },
     {
         "week": "1",
+        "date": "Sun, September 13",
         "winner": "Dallas Cowboys",
         "loser": "New York Giants",
         "winnerScore": "27",
-        "loserScore": "26"
+        "loserScore": "26",
+        "winnerLogo": "img/DAL.svg",
+        "loserLogo": "img/NYG.svg"
     },
     {
         "week": "1",
+        "date": "Sun, September 13",
         "winner": "St. Louis Rams",
         "loser": "Seattle Seahawks",
         "winnerScore": "34",
-        "loserScore": "31"
+        "loserScore": "31",
+        "winnerLogo": "img/STL.svg",
+        "loserLogo": "img/SEA.svg"
     },
     {
         "week": "1",
+        "date": "Sun, September 13",
         "winner": "Kansas City Chiefs",
         "loser": "Houston Texans",
         "winnerScore": "27",
-        "loserScore": "20"
+        "loserScore": "20",
+        "winnerLogo": "img/KC.svg",
+        "loserLogo": "img/HOU.svg"
     },
     {
         "week": "1",
+        "date": "Sun, September 13",
         "winner": "Green Bay Packers",
         "loser": "Chicago Bears",
         "winnerScore": "31",
-        "loserScore": "23"
+        "loserScore": "23",
+        "winnerLogo": "img/GB.svg",
+        "loserLogo": "img/CHI.svg"
     },
     {
         "week": "1",
+        "date": "Sun, September 13",
         "winner": "Miami Dolphins",
         "loser": "Washington Redskins",
         "winnerScore": "17",
-        "loserScore": "10"
+        "loserScore": "10",
+        "winnerLogo": "img/MIA.svg",
+        "loserLogo": "img/WAS.svg"
     },
     {
         "week": "1",
+        "date": "Sun, September 13",
         "winner": "Tennessee Titans",
         "loser": "Tampa Bay Buccaneers",
         "winnerScore": "42",
-        "loserScore": "14"
+        "loserScore": "14",
+        "winnerLogo": "img/TEN.svg",
+        "loserLogo": "img/TB.svg"
     },
     {
         "week": "1",
+        "date": "Mon, September 14",
         "winner": "San Francisco 49ers",
         "loser": "Minnesota Vikings",
         "winnerScore": "20",
-        "loserScore": "3"
+        "loserScore": "3",
+        "winnerLogo": "img/SF.svg",
+        "loserLogo": "img/MIN.svg"
     },
     {
         "week": "1",
+        "date": "Mon, September 14",
         "winner": "Atlanta Falcons",
         "loser": "Philadelphia Eagles",
         "winnerScore": "26",
-        "loserScore": "24"
+        "loserScore": "24",
+        "winnerLogo": "img/ATL.svg",
+        "loserLogo": "img/PHI.svg"
     },
     {
         "week": "2",
+        "date": "Thu, September 17",
         "winner": "Denver Broncos",
         "loser": "Kansas City Chiefs",
         "winnerScore": "31",
-        "loserScore": "24"
+        "loserScore": "24",
+        "winnerLogo": "img/DEN.svg",
+        "loserLogo": "img/KC.svg"
     },
     {
         "week": "2",
+        "date": "Sun, September 20",
         "winner": "Atlanta Falcons",
         "loser": "New York Giants",
         "winnerScore": "24",
-        "loserScore": "20"
+        "loserScore": "20",
+        "winnerLogo": "img/ATL.svg",
+        "loserLogo": "img/NYG.svg"
     },
     {
         "week": "2",
-        "winner": "Tampa Bay Buccaneers",
-        "loser": "New Orleans Saints",
-        "winnerScore": "26",
-        "loserScore": "19"
-    },
-    {
-        "week": "2",
-        "winner": "Washington Redskins",
-        "loser": "St. Louis Rams",
-        "winnerScore": "24",
-        "loserScore": "10"
-    },
-    {
-        "week": "2",
-        "winner": "Carolina Panthers",
-        "loser": "Houston Texans",
-        "winnerScore": "24",
-        "loserScore": "17"
-    },
-    {
-        "week": "2",
-        "winner": "Minnesota Vikings",
-        "loser": "Detroit Lions",
-        "winnerScore": "26",
-        "loserScore": "16"
-    },
-    {
-        "week": "2",
-        "winner": "Cincinnati Bengals",
-        "loser": "San Diego Chargers",
-        "winnerScore": "24",
-        "loserScore": "19"
-    },
-    {
-        "week": "2",
-        "winner": "Cleveland Browns",
-        "loser": "Tennessee Titans",
-        "winnerScore": "28",
-        "loserScore": "14"
-    },
-    {
-        "week": "2",
-        "winner": "Jacksonville Jaguars",
-        "loser": "Miami Dolphins",
-        "winnerScore": "23",
-        "loserScore": "20"
-    },
-    {
-        "week": "2",
-        "winner": "Dallas Cowboys",
-        "loser": "Philadelphia Eagles",
-        "winnerScore": "20",
-        "loserScore": "10"
-    },
-    {
-        "week": "2",
-        "winner": "Pittsburgh Steelers",
-        "loser": "San Francisco 49ers",
-        "winnerScore": "43",
-        "loserScore": "18"
-    },
-    {
-        "week": "2",
-        "winner": "Arizona Cardinals",
-        "loser": "Chicago Bears",
-        "winnerScore": "48",
-        "loserScore": "23"
-    },
-    {
-        "week": "2",
-        "winner": "Green Bay Packers",
-        "loser": "Seattle Seahawks",
-        "winnerScore": "27",
-        "loserScore": "17"
-    },
-    {
-        "week": "2",
-        "winner": "Oakland Raiders",
-        "loser": "Baltimore Ravens",
-        "winnerScore": "37",
-        "loserScore": "33"
-    },
-    {
-        "week": "2",
+        "date": "Sun, September 20",
         "winner": "New England Patriots",
         "loser": "Buffalo Bills",
         "winnerScore": "40",
-        "loserScore": "32"
+        "loserScore": "32",
+        "winnerLogo": "img/NE.svg",
+        "loserLogo": "img/BUF.svg"
     },
     {
         "week": "2",
+        "date": "Sun, September 20",
+        "winner": "Tampa Bay Buccaneers",
+        "loser": "New Orleans Saints",
+        "winnerScore": "26",
+        "loserScore": "19",
+        "winnerLogo": "img/TB.svg",
+        "loserLogo": "img/NO.svg"
+    },
+    {
+        "week": "2",
+        "date": "Sun, September 20",
+        "winner": "Washington Redskins",
+        "loser": "St. Louis Rams",
+        "winnerScore": "24",
+        "loserScore": "10",
+        "winnerLogo": "img/WAS.svg",
+        "loserLogo": "img/STL.svg"
+    },
+    {
+        "week": "2",
+        "date": "Sun, September 20",
+        "winner": "Carolina Panthers",
+        "loser": "Houston Texans",
+        "winnerScore": "24",
+        "loserScore": "17",
+        "winnerLogo": "img/CAR.svg",
+        "loserLogo": "img/HOU.svg"
+    },
+    {
+        "week": "2",
+        "date": "Sun, September 20",
+        "winner": "Minnesota Vikings",
+        "loser": "Detroit Lions",
+        "winnerScore": "26",
+        "loserScore": "16",
+        "winnerLogo": "img/MIN.svg",
+        "loserLogo": "img/DET.svg"
+    },
+    {
+        "week": "2",
+        "date": "Sun, September 20",
+        "winner": "Cincinnati Bengals",
+        "loser": "San Diego Chargers",
+        "winnerScore": "24",
+        "loserScore": "19",
+        "winnerLogo": "img/CIN.svg",
+        "loserLogo": "img/SD.svg"
+    },
+    {
+        "week": "2",
+        "date": "Sun, September 20",
+        "winner": "Cleveland Browns",
+        "loser": "Tennessee Titans",
+        "winnerScore": "28",
+        "loserScore": "14",
+        "winnerLogo": "img/CLE.svg",
+        "loserLogo": "img/TEN.svg"
+    },
+    {
+        "week": "2",
+        "date": "Sun, September 20",
+        "winner": "Oakland Raiders",
+        "loser": "Baltimore Ravens",
+        "winnerScore": "37",
+        "loserScore": "33",
+        "winnerLogo": "img/OAK.svg",
+        "loserLogo": "img/BAL.svg"
+    },
+    {
+        "week": "2",
+        "date": "Sun, September 20",
+        "winner": "Green Bay Packers",
+        "loser": "Seattle Seahawks",
+        "winnerScore": "27",
+        "loserScore": "17",
+        "winnerLogo": "img/GB.svg",
+        "loserLogo": "img/SEA.svg"
+    },
+    {
+        "week": "2",
+        "date": "Sun, September 20",
+        "winner": "Arizona Cardinals",
+        "loser": "Chicago Bears",
+        "winnerScore": "48",
+        "loserScore": "23",
+        "winnerLogo": "img/AZ.svg",
+        "loserLogo": "img/CHI.svg"
+    },
+    {
+        "week": "2",
+        "date": "Sun, September 20",
+        "winner": "Pittsburgh Steelers",
+        "loser": "San Francisco 49ers",
+        "winnerScore": "43",
+        "loserScore": "18",
+        "winnerLogo": "img/PIT.svg",
+        "loserLogo": "img/SF.svg"
+    },
+    {
+        "week": "2",
+        "date": "Sun, September 20",
+        "winner": "Dallas Cowboys",
+        "loser": "Philadelphia Eagles",
+        "winnerScore": "20",
+        "loserScore": "10",
+        "winnerLogo": "img/DAL.svg",
+        "loserLogo": "img/PHI.svg"
+    },
+    {
+        "week": "2",
+        "date": "Sun, September 20",
+        "winner": "Jacksonville Jaguars",
+        "loser": "Miami Dolphins",
+        "winnerScore": "23",
+        "loserScore": "20",
+        "winnerLogo": "img/JAX.svg",
+        "loserLogo": "img/MIA.svg"
+    },
+    {
+        "week": "2",
+        "date": "Mon, September 21",
         "winner": "New York Jets",
         "loser": "Indianapolis Colts",
         "winnerScore": "20",
-        "loserScore": "7"
+        "loserScore": "7",
+        "winnerLogo": "img/NYJ.svg",
+        "loserLogo": "img/IND.svg"
     },
     {
         "week": "3",
+        "date": "Thu, September 24",
         "winner": "New York Giants",
         "loser": "Washington Redskins",
         "winnerScore": "32",
-        "loserScore": "21"
+        "loserScore": "21",
+        "winnerLogo": "img/NYG.svg",
+        "loserLogo": "img/WAS.svg"
     },
     {
         "week": "3",
-        "winner": "Carolina Panthers",
-        "loser": "New Orleans Saints",
-        "winnerScore": "27",
-        "loserScore": "22"
+        "date": "Sun, September 27",
+        "winner": "Houston Texans",
+        "loser": "Tampa Bay Buccaneers",
+        "winnerScore": "19",
+        "loserScore": "9",
+        "winnerLogo": "img/HOU.svg",
+        "loserLogo": "img/TB.svg"
     },
     {
         "week": "3",
-        "winner": "Philadelphia Eagles",
-        "loser": "New York Jets",
-        "winnerScore": "24",
-        "loserScore": "17"
-    },
-    {
-        "week": "3",
+        "date": "Sun, September 27",
         "winner": "Pittsburgh Steelers",
         "loser": "St. Louis Rams",
         "winnerScore": "12",
-        "loserScore": "6"
+        "loserScore": "6",
+        "winnerLogo": "img/PIT.svg",
+        "loserLogo": "img/STL.svg"
     },
     {
         "week": "3",
-        "winner": "Houston Texans",
-        "loser": "Tampa Bay Buccaneers",
-        "winnerScore": "19",
-        "loserScore": "9"
+        "date": "Sun, September 27",
+        "winner": "Carolina Panthers",
+        "loser": "New Orleans Saints",
+        "winnerScore": "27",
+        "loserScore": "22",
+        "winnerLogo": "img/CAR.svg",
+        "loserLogo": "img/NO.svg"
     },
     {
         "week": "3",
+        "date": "Sun, September 27",
+        "winner": "Buffalo Bills",
+        "loser": "Miami Dolphins",
+        "winnerScore": "41",
+        "loserScore": "14",
+        "winnerLogo": "img/BUF.svg",
+        "loserLogo": "img/MIA.svg"
+    },
+    {
+        "week": "3",
+        "date": "Sun, September 27",
+        "winner": "Philadelphia Eagles",
+        "loser": "New York Jets",
+        "winnerScore": "24",
+        "loserScore": "17",
+        "winnerLogo": "img/PHI.svg",
+        "loserLogo": "img/NYJ.svg"
+    },
+    {
+        "week": "3",
+        "date": "Sun, September 27",
         "winner": "Arizona Cardinals",
         "loser": "San Francisco 49ers",
         "winnerScore": "47",
-        "loserScore": "7"
+        "loserScore": "7",
+        "winnerLogo": "img/AZ.svg",
+        "loserLogo": "img/SF.svg"
     },
     {
         "week": "3",
+        "date": "Sun, September 27",
         "winner": "Atlanta Falcons",
         "loser": "Dallas Cowboys",
         "winnerScore": "39",
-        "loserScore": "28"
+        "loserScore": "28",
+        "winnerLogo": "img/ATL.svg",
+        "loserLogo": "img/DAL.svg"
     },
     {
         "week": "3",
+        "date": "Sun, September 27",
         "winner": "New England Patriots",
         "loser": "Jacksonville Jaguars",
         "winnerScore": "51",
-        "loserScore": "17"
+        "loserScore": "17",
+        "winnerLogo": "img/NE.svg",
+        "loserLogo": "img/JAX.svg"
     },
     {
         "week": "3",
-        "winner": "Denver Broncos",
-        "loser": "Detroit Lions",
-        "winnerScore": "24",
-        "loserScore": "12"
-    },
-    {
-        "week": "3",
-        "winner": "Cincinnati Bengals",
-        "loser": "Baltimore Ravens",
-        "winnerScore": "28",
-        "loserScore": "24"
-    },
-    {
-        "week": "3",
-        "winner": "Indianapolis Colts",
-        "loser": "Tennessee Titans",
-        "winnerScore": "35",
-        "loserScore": "33"
-    },
-    {
-        "week": "3",
-        "winner": "Seattle Seahawks",
-        "loser": "Chicago Bears",
-        "winnerScore": "26",
-        "loserScore": "0"
-    },
-    {
-        "week": "3",
-        "winner": "Oakland Raiders",
-        "loser": "Cleveland Browns",
-        "winnerScore": "27",
-        "loserScore": "20"
-    },
-    {
-        "week": "3",
+        "date": "Sun, September 27",
         "winner": "Minnesota Vikings",
         "loser": "San Diego Chargers",
         "winnerScore": "31",
-        "loserScore": "14"
+        "loserScore": "14",
+        "winnerLogo": "img/MIN.svg",
+        "loserLogo": "img/SD.svg"
     },
     {
         "week": "3",
-        "winner": "Buffalo Bills",
-        "loser": "Miami Dolphins",
-        "winnerScore": "41",
-        "loserScore": "14"
+        "date": "Sun, September 27",
+        "winner": "Oakland Raiders",
+        "loser": "Cleveland Browns",
+        "winnerScore": "27",
+        "loserScore": "20",
+        "winnerLogo": "img/OAK.svg",
+        "loserLogo": "img/CLE.svg"
     },
     {
         "week": "3",
+        "date": "Sun, September 27",
+        "winner": "Seattle Seahawks",
+        "loser": "Chicago Bears",
+        "winnerScore": "26",
+        "loserScore": "0",
+        "winnerLogo": "img/SEA.svg",
+        "loserLogo": "img/CHI.svg"
+    },
+    {
+        "week": "3",
+        "date": "Sun, September 27",
+        "winner": "Indianapolis Colts",
+        "loser": "Tennessee Titans",
+        "winnerScore": "35",
+        "loserScore": "33",
+        "winnerLogo": "img/IND.svg",
+        "loserLogo": "img/TEN.svg"
+    },
+    {
+        "week": "3",
+        "date": "Sun, September 27",
+        "winner": "Cincinnati Bengals",
+        "loser": "Baltimore Ravens",
+        "winnerScore": "28",
+        "loserScore": "24",
+        "winnerLogo": "img/CIN.svg",
+        "loserLogo": "img/BAL.svg"
+    },
+    {
+        "week": "3",
+        "date": "Sun, September 27",
+        "winner": "Denver Broncos",
+        "loser": "Detroit Lions",
+        "winnerScore": "24",
+        "loserScore": "12",
+        "winnerLogo": "img/DEN.svg",
+        "loserLogo": "img/DET.svg"
+    },
+    {
+        "week": "3",
+        "date": "Mon, September 28",
         "winner": "Green Bay Packers",
         "loser": "Kansas City Chiefs",
         "winnerScore": "38",
-        "loserScore": "28"
+        "loserScore": "28",
+        "winnerLogo": "img/GB.svg",
+        "loserLogo": "img/KC.svg"
     },
     {
         "week": "4",
+        "date": "Thu, October 1",
         "winner": "Baltimore Ravens",
         "loser": "Pittsburgh Steelers",
         "winnerScore": "23",
-        "loserScore": "20"
+        "loserScore": "20",
+        "winnerLogo": "img/BAL.svg",
+        "loserLogo": "img/PIT.svg"
     },
     {
         "week": "4",
-        "winner": "New York Giants",
-        "loser": "Buffalo Bills",
-        "winnerScore": "24",
-        "loserScore": "10"
-    },
-    {
-        "week": "4",
-        "winner": "New Orleans Saints",
-        "loser": "Dallas Cowboys",
-        "winnerScore": "26",
-        "loserScore": "20"
-    },
-    {
-        "week": "4",
-        "winner": "Denver Broncos",
-        "loser": "Minnesota Vikings",
-        "winnerScore": "23",
-        "loserScore": "20"
-    },
-    {
-        "week": "4",
-        "winner": "San Diego Chargers",
-        "loser": "Cleveland Browns",
-        "winnerScore": "30",
-        "loserScore": "27"
-    },
-    {
-        "week": "4",
-        "winner": "Cincinnati Bengals",
-        "loser": "Kansas City Chiefs",
-        "winnerScore": "36",
-        "loserScore": "21"
-    },
-    {
-        "week": "4",
+        "date": "Sun, October 4",
         "winner": "Indianapolis Colts",
         "loser": "Jacksonville Jaguars",
         "winnerScore": "16",
-        "loserScore": "13"
+        "loserScore": "13",
+        "winnerLogo": "img/IND.svg",
+        "loserLogo": "img/JAX.svg"
     },
     {
         "week": "4",
+        "date": "Sun, October 4",
+        "winner": "Cincinnati Bengals",
+        "loser": "Kansas City Chiefs",
+        "winnerScore": "36",
+        "loserScore": "21",
+        "winnerLogo": "img/CIN.svg",
+        "loserLogo": "img/KC.svg"
+    },
+    {
+        "week": "4",
+        "date": "Sun, October 4",
+        "winner": "San Diego Chargers",
+        "loser": "Cleveland Browns",
+        "winnerScore": "30",
+        "loserScore": "27",
+        "winnerLogo": "img/SD.svg",
+        "loserLogo": "img/CLE.svg"
+    },
+    {
+        "week": "4",
+        "date": "Sun, October 4",
+        "winner": "Denver Broncos",
+        "loser": "Minnesota Vikings",
+        "winnerScore": "23",
+        "loserScore": "20",
+        "winnerLogo": "img/DEN.svg",
+        "loserLogo": "img/MIN.svg"
+    },
+    {
+        "week": "4",
+        "date": "Sun, October 4",
+        "winner": "New Orleans Saints",
+        "loser": "Dallas Cowboys",
+        "winnerScore": "26",
+        "loserScore": "20",
+        "winnerLogo": "img/NO.svg",
+        "loserLogo": "img/DAL.svg"
+    },
+    {
+        "week": "4",
+        "date": "Sun, October 4",
+        "winner": "New York Giants",
+        "loser": "Buffalo Bills",
+        "winnerScore": "24",
+        "loserScore": "10",
+        "winnerLogo": "img/NYG.svg",
+        "loserLogo": "img/BUF.svg"
+    },
+    {
+        "week": "4",
+        "date": "Sun, October 4",
         "winner": "Atlanta Falcons",
         "loser": "Houston Texans",
         "winnerScore": "48",
-        "loserScore": "21"
+        "loserScore": "21",
+        "winnerLogo": "img/ATL.svg",
+        "loserLogo": "img/HOU.svg"
     },
     {
         "week": "4",
+        "date": "Sun, October 4",
         "winner": "New York Jets",
         "loser": "Miami Dolphins",
         "winnerScore": "27",
-        "loserScore": "14"
+        "loserScore": "14",
+        "winnerLogo": "img/NYJ.svg",
+        "loserLogo": "img/MIA.svg"
     },
     {
         "week": "4",
-        "winner": "Chicago Bears",
-        "loser": "Oakland Raiders",
-        "winnerScore": "22",
-        "loserScore": "20"
-    },
-    {
-        "week": "4",
-        "winner": "Carolina Panthers",
-        "loser": "Tampa Bay Buccaneers",
-        "winnerScore": "37",
-        "loserScore": "23"
-    },
-    {
-        "week": "4",
-        "winner": "Green Bay Packers",
-        "loser": "San Francisco 49ers",
-        "winnerScore": "17",
-        "loserScore": "3"
-    },
-    {
-        "week": "4",
-        "winner": "St. Louis Rams",
-        "loser": "Arizona Cardinals",
-        "winnerScore": "24",
-        "loserScore": "22"
-    },
-    {
-        "week": "4",
+        "date": "Sun, October 4",
         "winner": "Washington Redskins",
         "loser": "Philadelphia Eagles",
         "winnerScore": "23",
-        "loserScore": "20"
+        "loserScore": "20",
+        "winnerLogo": "img/WAS.svg",
+        "loserLogo": "img/PHI.svg"
     },
     {
         "week": "4",
+        "date": "Sun, October 4",
+        "winner": "St. Louis Rams",
+        "loser": "Arizona Cardinals",
+        "winnerScore": "24",
+        "loserScore": "22",
+        "winnerLogo": "img/STL.svg",
+        "loserLogo": "img/AZ.svg"
+    },
+    {
+        "week": "4",
+        "date": "Sun, October 4",
+        "winner": "Green Bay Packers",
+        "loser": "San Francisco 49ers",
+        "winnerScore": "17",
+        "loserScore": "3",
+        "winnerLogo": "img/GB.svg",
+        "loserLogo": "img/SF.svg"
+    },
+    {
+        "week": "4",
+        "date": "Sun, October 4",
+        "winner": "Carolina Panthers",
+        "loser": "Tampa Bay Buccaneers",
+        "winnerScore": "37",
+        "loserScore": "23",
+        "winnerLogo": "img/CAR.svg",
+        "loserLogo": "img/TB.svg"
+    },
+    {
+        "week": "4",
+        "date": "Sun, October 4",
+        "winner": "Chicago Bears",
+        "loser": "Oakland Raiders",
+        "winnerScore": "22",
+        "loserScore": "20",
+        "winnerLogo": "img/CHI.svg",
+        "loserLogo": "img/OAK.svg"
+    },
+    {
+        "week": "4",
+        "date": "Mon, October 5",
         "winner": "Seattle Seahawks",
         "loser": "Detroit Lions",
         "winnerScore": "13",
-        "loserScore": "10"
+        "loserScore": "10",
+        "winnerLogo": "img/SEA.svg",
+        "loserLogo": "img/DET.svg"
     },
     {
         "week": "5",
+        "date": "Thu, October 8",
         "winner": "Indianapolis Colts",
         "loser": "Houston Texans",
         "winnerScore": "27",
-        "loserScore": "20"
+        "loserScore": "20",
+        "winnerLogo": "img/IND.svg",
+        "loserLogo": "img/HOU.svg"
     },
     {
         "week": "5",
+        "date": "Sun, October 11",
         "winner": "Cleveland Browns",
         "loser": "Baltimore Ravens",
         "winnerScore": "33",
-        "loserScore": "30"
+        "loserScore": "30",
+        "winnerLogo": "img/CLE.svg",
+        "loserLogo": "img/BAL.svg"
     },
     {
         "week": "5",
-        "winner": "Cincinnati Bengals",
-        "loser": "Seattle Seahawks",
-        "winnerScore": "27",
-        "loserScore": "24"
-    },
-    {
-        "week": "5",
+        "date": "Sun, October 11",
         "winner": "Buffalo Bills",
         "loser": "Tennessee Titans",
         "winnerScore": "14",
-        "loserScore": "13"
+        "loserScore": "13",
+        "winnerLogo": "img/BUF.svg",
+        "loserLogo": "img/TEN.svg"
     },
     {
         "week": "5",
-        "winner": "New York Giants",
-        "loser": "San Francisco 49ers",
-        "winnerScore": "30",
-        "loserScore": "27"
+        "date": "Sun, October 11",
+        "winner": "Cincinnati Bengals",
+        "loser": "Seattle Seahawks",
+        "winnerScore": "27",
+        "loserScore": "24",
+        "winnerLogo": "img/CIN.svg",
+        "loserLogo": "img/SEA.svg"
     },
     {
         "week": "5",
-        "winner": "Philadelphia Eagles",
-        "loser": "New Orleans Saints",
-        "winnerScore": "39",
-        "loserScore": "17"
-    },
-    {
-        "week": "5",
-        "winner": "Denver Broncos",
-        "loser": "Oakland Raiders",
-        "winnerScore": "16",
-        "loserScore": "10"
-    },
-    {
-        "week": "5",
-        "winner": "Arizona Cardinals",
-        "loser": "Detroit Lions",
-        "winnerScore": "42",
-        "loserScore": "17"
-    },
-    {
-        "week": "5",
-        "winner": "Atlanta Falcons",
-        "loser": "Washington Redskins",
-        "winnerScore": "25",
-        "loserScore": "19"
-    },
-    {
-        "week": "5",
-        "winner": "Green Bay Packers",
-        "loser": "St. Louis Rams",
-        "winnerScore": "24",
-        "loserScore": "10"
-    },
-    {
-        "week": "5",
-        "winner": "Tampa Bay Buccaneers",
-        "loser": "Jacksonville Jaguars",
-        "winnerScore": "38",
-        "loserScore": "31"
-    },
-    {
-        "week": "5",
-        "winner": "New England Patriots",
-        "loser": "Dallas Cowboys",
-        "winnerScore": "30",
-        "loserScore": "6"
-    },
-    {
-        "week": "5",
+        "date": "Sun, October 11",
         "winner": "Chicago Bears",
         "loser": "Kansas City Chiefs",
         "winnerScore": "18",
-        "loserScore": "17"
+        "loserScore": "17",
+        "winnerLogo": "img/CHI.svg",
+        "loserLogo": "img/KC.svg"
     },
     {
         "week": "5",
+        "date": "Sun, October 11",
+        "winner": "New York Giants",
+        "loser": "San Francisco 49ers",
+        "winnerScore": "30",
+        "loserScore": "27",
+        "winnerLogo": "img/NYG.svg",
+        "loserLogo": "img/SF.svg"
+    },
+    {
+        "week": "5",
+        "date": "Sun, October 11",
+        "winner": "Philadelphia Eagles",
+        "loser": "New Orleans Saints",
+        "winnerScore": "39",
+        "loserScore": "17",
+        "winnerLogo": "img/PHI.svg",
+        "loserLogo": "img/NO.svg"
+    },
+    {
+        "week": "5",
+        "date": "Sun, October 11",
+        "winner": "Denver Broncos",
+        "loser": "Oakland Raiders",
+        "winnerScore": "16",
+        "loserScore": "10",
+        "winnerLogo": "img/DEN.svg",
+        "loserLogo": "img/OAK.svg"
+    },
+    {
+        "week": "5",
+        "date": "Sun, October 11",
+        "winner": "Arizona Cardinals",
+        "loser": "Detroit Lions",
+        "winnerScore": "42",
+        "loserScore": "17",
+        "winnerLogo": "img/AZ.svg",
+        "loserLogo": "img/DET.svg"
+    },
+    {
+        "week": "5",
+        "date": "Sun, October 11",
+        "winner": "Atlanta Falcons",
+        "loser": "Washington Redskins",
+        "winnerScore": "25",
+        "loserScore": "19",
+        "winnerLogo": "img/ATL.svg",
+        "loserLogo": "img/WAS.svg"
+    },
+    {
+        "week": "5",
+        "date": "Sun, October 11",
+        "winner": "New England Patriots",
+        "loser": "Dallas Cowboys",
+        "winnerScore": "30",
+        "loserScore": "6",
+        "winnerLogo": "img/NE.svg",
+        "loserLogo": "img/DAL.svg"
+    },
+    {
+        "week": "5",
+        "date": "Sun, October 11",
+        "winner": "Tampa Bay Buccaneers",
+        "loser": "Jacksonville Jaguars",
+        "winnerScore": "38",
+        "loserScore": "31",
+        "winnerLogo": "img/TB.svg",
+        "loserLogo": "img/JAX.svg"
+    },
+    {
+        "week": "5",
+        "date": "Sun, October 11",
+        "winner": "Green Bay Packers",
+        "loser": "St. Louis Rams",
+        "winnerScore": "24",
+        "loserScore": "10",
+        "winnerLogo": "img/GB.svg",
+        "loserLogo": "img/STL.svg"
+    },
+    {
+        "week": "5",
+        "date": "Mon, October 12",
         "winner": "Pittsburgh Steelers",
         "loser": "San Diego Chargers",
         "winnerScore": "24",
-        "loserScore": "20"
+        "loserScore": "20",
+        "winnerLogo": "img/PIT.svg",
+        "loserLogo": "img/SD.svg"
     },
     {
         "week": "6",
+        "date": "Thu, October 15",
         "winner": "New Orleans Saints",
         "loser": "Atlanta Falcons",
         "winnerScore": "31",
-        "loserScore": "21"
+        "loserScore": "21",
+        "winnerLogo": "img/NO.svg",
+        "loserLogo": "img/ATL.svg"
     },
     {
         "week": "6",
+        "date": "Sun, October 18",
         "winner": "New York Jets",
         "loser": "Washington Redskins",
         "winnerScore": "34",
-        "loserScore": "20"
+        "loserScore": "20",
+        "winnerLogo": "img/NYJ.svg",
+        "loserLogo": "img/WAS.svg"
     },
     {
         "week": "6",
-        "winner": "Carolina Panthers",
-        "loser": "Seattle Seahawks",
-        "winnerScore": "27",
-        "loserScore": "23"
-    },
-    {
-        "week": "6",
+        "date": "Sun, October 18",
         "winner": "Miami Dolphins",
         "loser": "Tennessee Titans",
         "winnerScore": "38",
-        "loserScore": "10"
+        "loserScore": "10",
+        "winnerLogo": "img/MIA.svg",
+        "loserLogo": "img/TEN.svg"
     },
     {
         "week": "6",
+        "date": "Sun, October 18",
+        "winner": "Carolina Panthers",
+        "loser": "Seattle Seahawks",
+        "winnerScore": "27",
+        "loserScore": "23",
+        "winnerLogo": "img/CAR.svg",
+        "loserLogo": "img/SEA.svg"
+    },
+    {
+        "week": "6",
+        "date": "Sun, October 18",
         "winner": "Green Bay Packers",
         "loser": "San Diego Chargers",
         "winnerScore": "27",
-        "loserScore": "20"
+        "loserScore": "20",
+        "winnerLogo": "img/GB.svg",
+        "loserLogo": "img/SD.svg"
     },
     {
         "week": "6",
+        "date": "Sun, October 18",
         "winner": "San Francisco 49ers",
         "loser": "Baltimore Ravens",
         "winnerScore": "25",
-        "loserScore": "20"
+        "loserScore": "20",
+        "winnerLogo": "img/SF.svg",
+        "loserLogo": "img/BAL.svg"
     },
     {
         "week": "6",
+        "date": "Sun, October 18",
         "winner": "Houston Texans",
         "loser": "Jacksonville Jaguars",
         "winnerScore": "31",
-        "loserScore": "20"
+        "loserScore": "20",
+        "winnerLogo": "img/HOU.svg",
+        "loserLogo": "img/JAX.svg"
     },
     {
         "week": "6",
+        "date": "Sun, October 18",
         "winner": "Cincinnati Bengals",
         "loser": "Buffalo Bills",
         "winnerScore": "34",
-        "loserScore": "21"
+        "loserScore": "21",
+        "winnerLogo": "img/CIN.svg",
+        "loserLogo": "img/BUF.svg"
     },
     {
         "week": "6",
+        "date": "Sun, October 18",
         "winner": "Pittsburgh Steelers",
         "loser": "Arizona Cardinals",
         "winnerScore": "25",
-        "loserScore": "13"
+        "loserScore": "13",
+        "winnerLogo": "img/PIT.svg",
+        "loserLogo": "img/AZ.svg"
     },
     {
         "week": "6",
+        "date": "Sun, October 18",
         "winner": "Minnesota Vikings",
         "loser": "Kansas City Chiefs",
         "winnerScore": "16",
-        "loserScore": "10"
+        "loserScore": "10",
+        "winnerLogo": "img/MIN.svg",
+        "loserLogo": "img/KC.svg"
     },
     {
         "week": "6",
+        "date": "Sun, October 18",
         "winner": "New England Patriots",
         "loser": "Indianapolis Colts",
         "winnerScore": "34",
-        "loserScore": "27"
+        "loserScore": "27",
+        "winnerLogo": "img/NE.svg",
+        "loserLogo": "img/IND.svg"
     },
     {
         "week": "6",
+        "date": "Sun, October 18",
         "winner": "Detroit Lions",
         "loser": "Chicago Bears",
         "winnerScore": "37",
-        "loserScore": "34"
+        "loserScore": "34",
+        "winnerLogo": "img/DET.svg",
+        "loserLogo": "img/CHI.svg"
     },
     {
         "week": "6",
+        "date": "Sun, October 18",
         "winner": "Denver Broncos",
         "loser": "Cleveland Browns",
         "winnerScore": "26",
-        "loserScore": "23"
+        "loserScore": "23",
+        "winnerLogo": "img/DEN.svg",
+        "loserLogo": "img/CLE.svg"
     },
     {
         "week": "6",
+        "date": "Mon, October 19",
         "winner": "Philadelphia Eagles",
         "loser": "New York Giants",
         "winnerScore": "27",
-        "loserScore": "7"
+        "loserScore": "7",
+        "winnerLogo": "img/PHI.svg",
+        "loserLogo": "img/NYG.svg"
     },
     {
         "week": "7",
+        "date": "Thu, October 22",
         "winner": "Seattle Seahawks",
         "loser": "San Francisco 49ers",
         "winnerScore": "20",
-        "loserScore": "3"
+        "loserScore": "3",
+        "winnerLogo": "img/SEA.svg",
+        "loserLogo": "img/SF.svg"
     },
     {
         "week": "7",
-        "winner": "New York Giants",
-        "loser": "Dallas Cowboys",
-        "winnerScore": "27",
-        "loserScore": "20"
-    },
-    {
-        "week": "7",
-        "winner": "Washington Redskins",
-        "loser": "Tampa Bay Buccaneers",
-        "winnerScore": "31",
-        "loserScore": "30"
-    },
-    {
-        "week": "7",
-        "winner": "Oakland Raiders",
-        "loser": "San Diego Chargers",
-        "winnerScore": "37",
-        "loserScore": "29"
-    },
-    {
-        "week": "7",
+        "date": "Sun, October 25",
         "winner": "Carolina Panthers",
         "loser": "Philadelphia Eagles",
         "winnerScore": "27",
-        "loserScore": "16"
+        "loserScore": "16",
+        "winnerLogo": "img/CAR.svg",
+        "loserLogo": "img/PHI.svg"
     },
     {
         "week": "7",
+        "date": "Sun, October 25",
+        "winner": "New York Giants",
+        "loser": "Dallas Cowboys",
+        "winnerScore": "27",
+        "loserScore": "20",
+        "winnerLogo": "img/NYG.svg",
+        "loserLogo": "img/DAL.svg"
+    },
+    {
+        "week": "7",
+        "date": "Sun, October 25",
+        "winner": "Washington Redskins",
+        "loser": "Tampa Bay Buccaneers",
+        "winnerScore": "31",
+        "loserScore": "30",
+        "winnerLogo": "img/WAS.svg",
+        "loserLogo": "img/TB.svg"
+    },
+    {
+        "week": "7",
+        "date": "Sun, October 25",
         "winner": "New England Patriots",
         "loser": "New York Jets",
         "winnerScore": "30",
-        "loserScore": "23"
+        "loserScore": "23",
+        "winnerLogo": "img/NE.svg",
+        "loserLogo": "img/NYJ.svg"
     },
     {
         "week": "7",
+        "date": "Sun, October 25",
+        "winner": "Oakland Raiders",
+        "loser": "San Diego Chargers",
+        "winnerScore": "37",
+        "loserScore": "29",
+        "winnerLogo": "img/OAK.svg",
+        "loserLogo": "img/SD.svg"
+    },
+    {
+        "week": "7",
+        "date": "Sun, October 25",
+        "winner": "Minnesota Vikings",
+        "loser": "Detroit Lions",
+        "winnerScore": "28",
+        "loserScore": "19",
+        "winnerLogo": "img/MIN.svg",
+        "loserLogo": "img/DET.svg"
+    },
+    {
+        "week": "7",
+        "date": "Sun, October 25",
         "winner": "Miami Dolphins",
         "loser": "Houston Texans",
         "winnerScore": "44",
-        "loserScore": "26"
+        "loserScore": "26",
+        "winnerLogo": "img/MIA.svg",
+        "loserLogo": "img/HOU.svg"
     },
     {
         "week": "7",
+        "date": "Sun, October 25",
         "winner": "St. Louis Rams",
         "loser": "Cleveland Browns",
         "winnerScore": "24",
-        "loserScore": "6"
+        "loserScore": "6",
+        "winnerLogo": "img/STL.svg",
+        "loserLogo": "img/CLE.svg"
     },
     {
         "week": "7",
+        "date": "Sun, October 25",
         "winner": "New Orleans Saints",
         "loser": "Indianapolis Colts",
         "winnerScore": "27",
-        "loserScore": "21"
+        "loserScore": "21",
+        "winnerLogo": "img/NO.svg",
+        "loserLogo": "img/IND.svg"
     },
     {
         "week": "7",
+        "date": "Sun, October 25",
         "winner": "Atlanta Falcons",
         "loser": "Tennessee Titans",
         "winnerScore": "10",
-        "loserScore": "7"
+        "loserScore": "7",
+        "winnerLogo": "img/ATL.svg",
+        "loserLogo": "img/TEN.svg"
     },
     {
         "week": "7",
-        "winner": "Kansas City Chiefs",
-        "loser": "Pittsburgh Steelers",
-        "winnerScore": "23",
-        "loserScore": "13"
-    },
-    {
-        "week": "7",
-        "winner": "Minnesota Vikings",
-        "loser": "Detroit Lions",
-        "winnerScore": "28",
-        "loserScore": "19"
-    },
-    {
-        "week": "7",
+        "date": "Sun, October 25",
         "winner": "Jacksonville Jaguars",
         "loser": "Buffalo Bills",
         "winnerScore": "34",
-        "loserScore": "31"
+        "loserScore": "31",
+        "winnerLogo": "img/JAX.svg",
+        "loserLogo": "img/BUF.svg"
     },
     {
         "week": "7",
+        "date": "Sun, October 25",
+        "winner": "Kansas City Chiefs",
+        "loser": "Pittsburgh Steelers",
+        "winnerScore": "23",
+        "loserScore": "13",
+        "winnerLogo": "img/KC.svg",
+        "loserLogo": "img/PIT.svg"
+    },
+    {
+        "week": "7",
+        "date": "Mon, October 26",
         "winner": "Arizona Cardinals",
         "loser": "Baltimore Ravens",
         "winnerScore": "26",
-        "loserScore": "18"
+        "loserScore": "18",
+        "winnerLogo": "img/AZ.svg",
+        "loserLogo": "img/BAL.svg"
     },
     {
         "week": "8",
+        "date": "Thu, October 29",
         "winner": "New England Patriots",
         "loser": "Miami Dolphins",
         "winnerScore": "36",
-        "loserScore": "7"
+        "loserScore": "7",
+        "winnerLogo": "img/NE.svg",
+        "loserLogo": "img/MIA.svg"
     },
     {
         "week": "8",
+        "date": "Sun, November 1",
         "winner": "Minnesota Vikings",
         "loser": "Chicago Bears",
         "winnerScore": "23",
-        "loserScore": "20"
+        "loserScore": "20",
+        "winnerLogo": "img/MIN.svg",
+        "loserLogo": "img/CHI.svg"
     },
     {
         "week": "8",
+        "date": "Sun, November 1",
         "winner": "Oakland Raiders",
         "loser": "New York Jets",
         "winnerScore": "34",
-        "loserScore": "20"
+        "loserScore": "20",
+        "winnerLogo": "img/OAK.svg",
+        "loserLogo": "img/NYJ.svg"
     },
     {
         "week": "8",
+        "date": "Sun, November 1",
         "winner": "Seattle Seahawks",
         "loser": "Dallas Cowboys",
         "winnerScore": "13",
-        "loserScore": "12"
+        "loserScore": "12",
+        "winnerLogo": "img/SEA.svg",
+        "loserLogo": "img/DAL.svg"
     },
     {
         "week": "8",
+        "date": "Sun, November 1",
         "winner": "St. Louis Rams",
         "loser": "San Francisco 49ers",
         "winnerScore": "27",
-        "loserScore": "6"
+        "loserScore": "6",
+        "winnerLogo": "img/STL.svg",
+        "loserLogo": "img/SF.svg"
     },
     {
         "week": "8",
+        "date": "Sun, November 1",
         "winner": "Cincinnati Bengals",
         "loser": "Pittsburgh Steelers",
         "winnerScore": "16",
-        "loserScore": "10"
+        "loserScore": "10",
+        "winnerLogo": "img/CIN.svg",
+        "loserLogo": "img/PIT.svg"
     },
     {
         "week": "8",
+        "date": "Sun, November 1",
         "winner": "Denver Broncos",
         "loser": "Green Bay Packers",
         "winnerScore": "29",
-        "loserScore": "10"
+        "loserScore": "10",
+        "winnerLogo": "img/DEN.svg",
+        "loserLogo": "img/GB.svg"
     },
     {
         "week": "8",
+        "date": "Sun, November 1",
         "winner": "Kansas City Chiefs",
         "loser": "Detroit Lions",
         "winnerScore": "45",
-        "loserScore": "10"
+        "loserScore": "10",
+        "winnerLogo": "img/KC.svg",
+        "loserLogo": "img/DET.svg"
     },
     {
         "week": "8",
+        "date": "Sun, November 1",
         "winner": "Houston Texans",
         "loser": "Tennessee Titans",
         "winnerScore": "20",
-        "loserScore": "6"
+        "loserScore": "6",
+        "winnerLogo": "img/HOU.svg",
+        "loserLogo": "img/TEN.svg"
     },
     {
         "week": "8",
+        "date": "Sun, November 1",
         "winner": "Baltimore Ravens",
         "loser": "San Diego Chargers",
         "winnerScore": "29",
-        "loserScore": "26"
+        "loserScore": "26",
+        "winnerLogo": "img/BAL.svg",
+        "loserLogo": "img/SD.svg"
     },
     {
         "week": "8",
+        "date": "Sun, November 1",
         "winner": "Arizona Cardinals",
         "loser": "Cleveland Browns",
         "winnerScore": "34",
-        "loserScore": "20"
+        "loserScore": "20",
+        "winnerLogo": "img/AZ.svg",
+        "loserLogo": "img/CLE.svg"
     },
     {
         "week": "8",
+        "date": "Sun, November 1",
         "winner": "Tampa Bay Buccaneers",
         "loser": "Atlanta Falcons",
         "winnerScore": "23",
-        "loserScore": "20"
+        "loserScore": "20",
+        "winnerLogo": "img/TB.svg",
+        "loserLogo": "img/ATL.svg"
     },
     {
         "week": "8",
+        "date": "Sun, November 1",
         "winner": "New Orleans Saints",
         "loser": "New York Giants",
         "winnerScore": "52",
-        "loserScore": "49"
+        "loserScore": "49",
+        "winnerLogo": "img/NO.svg",
+        "loserLogo": "img/NYG.svg"
     },
     {
         "week": "8",
+        "date": "Mon, November 2",
         "winner": "Carolina Panthers",
         "loser": "Indianapolis Colts",
         "winnerScore": "29",
-        "loserScore": "26"
+        "loserScore": "26",
+        "winnerLogo": "img/CAR.svg",
+        "loserLogo": "img/IND.svg"
     },
     {
         "week": "9",
+        "date": "Thu, November 5",
         "winner": "Cincinnati Bengals",
         "loser": "Cleveland Browns",
         "winnerScore": "31",
-        "loserScore": "10"
+        "loserScore": "10",
+        "winnerLogo": "img/CIN.svg",
+        "loserLogo": "img/CLE.svg"
     },
     {
         "week": "9",
-        "winner": "New England Patriots",
-        "loser": "Washington Redskins",
-        "winnerScore": "27",
-        "loserScore": "10"
-    },
-    {
-        "week": "9",
-        "winner": "Minnesota Vikings",
-        "loser": "St. Louis Rams",
-        "winnerScore": "21",
-        "loserScore": "18"
-    },
-    {
-        "week": "9",
-        "winner": "Buffalo Bills",
-        "loser": "Miami Dolphins",
-        "winnerScore": "33",
-        "loserScore": "17"
-    },
-    {
-        "week": "9",
-        "winner": "Philadelphia Eagles",
-        "loser": "Dallas Cowboys",
-        "winnerScore": "33",
-        "loserScore": "27"
-    },
-    {
-        "week": "9",
-        "winner": "Carolina Panthers",
-        "loser": "Green Bay Packers",
-        "winnerScore": "37",
-        "loserScore": "29"
-    },
-    {
-        "week": "9",
+        "date": "Sun, November 8",
         "winner": "New York Jets",
         "loser": "Jacksonville Jaguars",
         "winnerScore": "28",
-        "loserScore": "23"
+        "loserScore": "23",
+        "winnerLogo": "img/NYJ.svg",
+        "loserLogo": "img/JAX.svg"
     },
     {
         "week": "9",
+        "date": "Sun, November 8",
+        "winner": "Philadelphia Eagles",
+        "loser": "Dallas Cowboys",
+        "winnerScore": "33",
+        "loserScore": "27",
+        "winnerLogo": "img/PHI.svg",
+        "loserLogo": "img/DAL.svg"
+    },
+    {
+        "week": "9",
+        "date": "Sun, November 8",
+        "winner": "Buffalo Bills",
+        "loser": "Miami Dolphins",
+        "winnerScore": "33",
+        "loserScore": "17",
+        "winnerLogo": "img/BUF.svg",
+        "loserLogo": "img/MIA.svg"
+    },
+    {
+        "week": "9",
+        "date": "Sun, November 8",
+        "winner": "Carolina Panthers",
+        "loser": "Green Bay Packers",
+        "winnerScore": "37",
+        "loserScore": "29",
+        "winnerLogo": "img/CAR.svg",
+        "loserLogo": "img/GB.svg"
+    },
+    {
+        "week": "9",
+        "date": "Sun, November 8",
+        "winner": "New England Patriots",
+        "loser": "Washington Redskins",
+        "winnerScore": "27",
+        "loserScore": "10",
+        "winnerLogo": "img/NE.svg",
+        "loserLogo": "img/WAS.svg"
+    },
+    {
+        "week": "9",
+        "date": "Sun, November 8",
+        "winner": "Minnesota Vikings",
+        "loser": "St. Louis Rams",
+        "winnerScore": "21",
+        "loserScore": "18",
+        "winnerLogo": "img/MIN.svg",
+        "loserLogo": "img/STL.svg"
+    },
+    {
+        "week": "9",
+        "date": "Sun, November 8",
         "winner": "Indianapolis Colts",
         "loser": "Denver Broncos",
         "winnerScore": "27",
-        "loserScore": "24"
+        "loserScore": "24",
+        "winnerLogo": "img/IND.svg",
+        "loserLogo": "img/DEN.svg"
     },
     {
         "week": "9",
+        "date": "Sun, November 8",
+        "winner": "Tennessee Titans",
+        "loser": "New Orleans Saints",
+        "winnerScore": "34",
+        "loserScore": "28",
+        "winnerLogo": "img/TEN.svg",
+        "loserLogo": "img/NO.svg"
+    },
+    {
+        "week": "9",
+        "date": "Sun, November 8",
+        "winner": "Pittsburgh Steelers",
+        "loser": "Oakland Raiders",
+        "winnerScore": "38",
+        "loserScore": "35",
+        "winnerLogo": "img/PIT.svg",
+        "loserLogo": "img/OAK.svg"
+    },
+    {
+        "week": "9",
+        "date": "Sun, November 8",
+        "winner": "San Francisco 49ers",
+        "loser": "Atlanta Falcons",
+        "winnerScore": "17",
+        "loserScore": "16",
+        "winnerLogo": "img/SF.svg",
+        "loserLogo": "img/ATL.svg"
+    },
+    {
+        "week": "9",
+        "date": "Sun, November 8",
         "winner": "New York Giants",
         "loser": "Tampa Bay Buccaneers",
         "winnerScore": "32",
-        "loserScore": "18"
+        "loserScore": "18",
+        "winnerLogo": "img/NYG.svg",
+        "loserLogo": "img/TB.svg"
     },
     {
         "week": "9",
-        "winner": "Pittsburgh Steelers",
-        "loser": "Oakland Raiders",
-        "winnerScore": "38",
-        "loserScore": "35"
-    },
-    {
-        "week": "9",
-        "winner": "San Francisco 49ers",
-        "loser": "Atlanta Falcons",
-        "winnerScore": "17",
-        "loserScore": "16"
-    },
-    {
-        "week": "9",
-        "winner": "Tennessee Titans",
-        "loser": "New Orleans Saints",
-        "winnerScore": "34",
-        "loserScore": "28"
-    },
-    {
-        "week": "9",
+        "date": "Mon, November 9",
         "winner": "Chicago Bears",
         "loser": "San Diego Chargers",
         "winnerScore": "22",
-        "loserScore": "19"
+        "loserScore": "19",
+        "winnerLogo": "img/CHI.svg",
+        "loserLogo": "img/SD.svg"
     },
     {
         "week": "10",
+        "date": "Thu, November 12",
         "winner": "Buffalo Bills",
         "loser": "New York Jets",
         "winnerScore": "22",
-        "loserScore": "17"
+        "loserScore": "17",
+        "winnerLogo": "img/BUF.svg",
+        "loserLogo": "img/NYJ.svg"
     },
     {
         "week": "10",
-        "winner": "Carolina Panthers",
-        "loser": "Tennessee Titans",
-        "winnerScore": "27",
-        "loserScore": "10"
+        "date": "Sun, November 15",
+        "winner": "Chicago Bears",
+        "loser": "St. Louis Rams",
+        "winnerScore": "37",
+        "loserScore": "13",
+        "winnerLogo": "img/CHI.svg",
+        "loserLogo": "img/STL.svg"
     },
     {
         "week": "10",
-        "winner": "New England Patriots",
-        "loser": "New York Giants",
-        "winnerScore": "27",
-        "loserScore": "26"
+        "date": "Sun, November 15",
+        "winner": "Jacksonville Jaguars",
+        "loser": "Baltimore Ravens",
+        "winnerScore": "22",
+        "loserScore": "20",
+        "winnerLogo": "img/JAX.svg",
+        "loserLogo": "img/BAL.svg"
     },
     {
         "week": "10",
+        "date": "Sun, November 15",
         "winner": "Arizona Cardinals",
         "loser": "Seattle Seahawks",
         "winnerScore": "39",
-        "loserScore": "32"
+        "loserScore": "32",
+        "winnerLogo": "img/AZ.svg",
+        "loserLogo": "img/SEA.svg"
     },
     {
         "week": "10",
-        "winner": "Jacksonville Jaguars",
-        "loser": "Baltimore Ravens",
-        "winnerScore": "22",
-        "loserScore": "20"
+        "date": "Sun, November 15",
+        "winner": "New England Patriots",
+        "loser": "New York Giants",
+        "winnerScore": "27",
+        "loserScore": "26",
+        "winnerLogo": "img/NE.svg",
+        "loserLogo": "img/NYG.svg"
     },
     {
         "week": "10",
-        "winner": "Chicago Bears",
-        "loser": "St. Louis Rams",
-        "winnerScore": "37",
-        "loserScore": "13"
+        "date": "Sun, November 15",
+        "winner": "Carolina Panthers",
+        "loser": "Tennessee Titans",
+        "winnerScore": "27",
+        "loserScore": "10",
+        "winnerLogo": "img/CAR.svg",
+        "loserLogo": "img/TEN.svg"
     },
     {
         "week": "10",
+        "date": "Sun, November 15",
         "winner": "Tampa Bay Buccaneers",
         "loser": "Dallas Cowboys",
         "winnerScore": "10",
-        "loserScore": "6"
+        "loserScore": "6",
+        "winnerLogo": "img/TB.svg",
+        "loserLogo": "img/DAL.svg"
     },
     {
         "week": "10",
+        "date": "Sun, November 15",
         "winner": "Minnesota Vikings",
         "loser": "Oakland Raiders",
         "winnerScore": "30",
-        "loserScore": "14"
+        "loserScore": "14",
+        "winnerLogo": "img/MIN.svg",
+        "loserLogo": "img/OAK.svg"
     },
     {
         "week": "10",
+        "date": "Sun, November 15",
         "winner": "Kansas City Chiefs",
         "loser": "Denver Broncos",
         "winnerScore": "29",
-        "loserScore": "13"
+        "loserScore": "13",
+        "winnerLogo": "img/KC.svg",
+        "loserLogo": "img/DEN.svg"
     },
     {
         "week": "10",
+        "date": "Sun, November 15",
         "winner": "Miami Dolphins",
         "loser": "Philadelphia Eagles",
         "winnerScore": "20",
-        "loserScore": "19"
+        "loserScore": "19",
+        "winnerLogo": "img/MIA.svg",
+        "loserLogo": "img/PHI.svg"
     },
     {
         "week": "10",
+        "date": "Sun, November 15",
         "winner": "Detroit Lions",
         "loser": "Green Bay Packers",
         "winnerScore": "18",
-        "loserScore": "16"
+        "loserScore": "16",
+        "winnerLogo": "img/DET.svg",
+        "loserLogo": "img/GB.svg"
     },
     {
         "week": "10",
+        "date": "Sun, November 15",
         "winner": "Washington Redskins",
         "loser": "New Orleans Saints",
         "winnerScore": "47",
-        "loserScore": "14"
+        "loserScore": "14",
+        "winnerLogo": "img/WAS.svg",
+        "loserLogo": "img/NO.svg"
     },
     {
         "week": "10",
+        "date": "Sun, November 15",
         "winner": "Pittsburgh Steelers",
         "loser": "Cleveland Browns",
         "winnerScore": "30",
-        "loserScore": "9"
+        "loserScore": "9",
+        "winnerLogo": "img/PIT.svg",
+        "loserLogo": "img/CLE.svg"
     },
     {
         "week": "10",
+        "date": "Mon, November 16",
         "winner": "Houston Texans",
         "loser": "Cincinnati Bengals",
         "winnerScore": "10",
-        "loserScore": "6"
+        "loserScore": "6",
+        "winnerLogo": "img/HOU.svg",
+        "loserLogo": "img/CIN.svg"
     },
     {
         "week": "11",
+        "date": "Thu, November 19",
         "winner": "Jacksonville Jaguars",
         "loser": "Tennessee Titans",
         "winnerScore": "19",
-        "loserScore": "13"
+        "loserScore": "13",
+        "winnerLogo": "img/JAX.svg",
+        "loserLogo": "img/TEN.svg"
     },
     {
         "week": "11",
+        "date": "Sun, November 22",
         "winner": "Tampa Bay Buccaneers",
         "loser": "Philadelphia Eagles",
         "winnerScore": "45",
-        "loserScore": "17"
+        "loserScore": "17",
+        "winnerLogo": "img/TB.svg",
+        "loserLogo": "img/PHI.svg"
     },
     {
         "week": "11",
+        "date": "Sun, November 22",
         "winner": "Indianapolis Colts",
         "loser": "Atlanta Falcons",
         "winnerScore": "24",
-        "loserScore": "21"
+        "loserScore": "21",
+        "winnerLogo": "img/IND.svg",
+        "loserLogo": "img/ATL.svg"
     },
     {
         "week": "11",
+        "date": "Sun, November 22",
         "winner": "Green Bay Packers",
         "loser": "Minnesota Vikings",
         "winnerScore": "30",
-        "loserScore": "13"
+        "loserScore": "13",
+        "winnerLogo": "img/GB.svg",
+        "loserLogo": "img/MIN.svg"
     },
     {
         "week": "11",
+        "date": "Sun, November 22",
         "winner": "Seattle Seahawks",
         "loser": "San Francisco 49ers",
         "winnerScore": "29",
-        "loserScore": "13"
+        "loserScore": "13",
+        "winnerLogo": "img/SEA.svg",
+        "loserLogo": "img/SF.svg"
     },
     {
         "week": "11",
+        "date": "Sun, November 22",
         "winner": "Denver Broncos",
         "loser": "Chicago Bears",
         "winnerScore": "17",
-        "loserScore": "15"
+        "loserScore": "15",
+        "winnerLogo": "img/DEN.svg",
+        "loserLogo": "img/CHI.svg"
     },
     {
         "week": "11",
+        "date": "Sun, November 22",
         "winner": "Arizona Cardinals",
         "loser": "Cincinnati Bengals",
         "winnerScore": "34",
-        "loserScore": "31"
+        "loserScore": "31",
+        "winnerLogo": "img/AZ.svg",
+        "loserLogo": "img/CIN.svg"
     },
     {
         "week": "11",
+        "date": "Sun, November 22",
+        "winner": "Kansas City Chiefs",
+        "loser": "San Diego Chargers",
+        "winnerScore": "33",
+        "loserScore": "3",
+        "winnerLogo": "img/KC.svg",
+        "loserLogo": "img/SD.svg"
+    },
+    {
+        "week": "11",
+        "date": "Sun, November 22",
         "winner": "Dallas Cowboys",
         "loser": "Miami Dolphins",
         "winnerScore": "24",
-        "loserScore": "14"
+        "loserScore": "14",
+        "winnerLogo": "img/DAL.svg",
+        "loserLogo": "img/MIA.svg"
     },
     {
         "week": "11",
-        "winner": "Detroit Lions",
-        "loser": "Oakland Raiders",
-        "winnerScore": "18",
-        "loserScore": "13"
-    },
-    {
-        "week": "11",
-        "winner": "Carolina Panthers",
-        "loser": "Washington Redskins",
-        "winnerScore": "44",
-        "loserScore": "16"
-    },
-    {
-        "week": "11",
-        "winner": "Baltimore Ravens",
-        "loser": "St. Louis Rams",
-        "winnerScore": "16",
-        "loserScore": "13"
-    },
-    {
-        "week": "11",
+        "date": "Sun, November 22",
         "winner": "Houston Texans",
         "loser": "New York Jets",
         "winnerScore": "24",
-        "loserScore": "17"
+        "loserScore": "17",
+        "winnerLogo": "img/HOU.svg",
+        "loserLogo": "img/NYJ.svg"
     },
     {
         "week": "11",
-        "winner": "Kansas City Chiefs",
-        "loser": "San Diego Chargers",
-        "winnerScore": "33",
-        "loserScore": "3"
+        "date": "Sun, November 22",
+        "winner": "Baltimore Ravens",
+        "loser": "St. Louis Rams",
+        "winnerScore": "16",
+        "loserScore": "13",
+        "winnerLogo": "img/BAL.svg",
+        "loserLogo": "img/STL.svg"
     },
     {
         "week": "11",
+        "date": "Sun, November 22",
+        "winner": "Carolina Panthers",
+        "loser": "Washington Redskins",
+        "winnerScore": "44",
+        "loserScore": "16",
+        "winnerLogo": "img/CAR.svg",
+        "loserLogo": "img/WAS.svg"
+    },
+    {
+        "week": "11",
+        "date": "Sun, November 22",
+        "winner": "Detroit Lions",
+        "loser": "Oakland Raiders",
+        "winnerScore": "18",
+        "loserScore": "13",
+        "winnerLogo": "img/DET.svg",
+        "loserLogo": "img/OAK.svg"
+    },
+    {
+        "week": "11",
+        "date": "Mon, November 23",
         "winner": "New England Patriots",
         "loser": "Buffalo Bills",
         "winnerScore": "20",
-        "loserScore": "13"
+        "loserScore": "13",
+        "winnerLogo": "img/NE.svg",
+        "loserLogo": "img/BUF.svg"
     },
     {
         "week": "12",
+        "date": "Thu, November 26",
         "winner": "Carolina Panthers",
         "loser": "Dallas Cowboys",
         "winnerScore": "33",
-        "loserScore": "14"
+        "loserScore": "14",
+        "winnerLogo": "img/CAR.svg",
+        "loserLogo": "img/DAL.svg"
     },
     {
         "week": "12",
+        "date": "Thu, November 26",
         "winner": "Detroit Lions",
         "loser": "Philadelphia Eagles",
         "winnerScore": "45",
-        "loserScore": "14"
+        "loserScore": "14",
+        "winnerLogo": "img/DET.svg",
+        "loserLogo": "img/PHI.svg"
     },
     {
         "week": "12",
+        "date": "Thu, November 26",
         "winner": "Chicago Bears",
         "loser": "Green Bay Packers",
         "winnerScore": "17",
-        "loserScore": "13"
+        "loserScore": "13",
+        "winnerLogo": "img/CHI.svg",
+        "loserLogo": "img/GB.svg"
     },
     {
         "week": "12",
-        "winner": "Seattle Seahawks",
-        "loser": "Pittsburgh Steelers",
-        "winnerScore": "39",
-        "loserScore": "30"
-    },
-    {
-        "week": "12",
-        "winner": "New York Jets",
-        "loser": "Miami Dolphins",
-        "winnerScore": "38",
-        "loserScore": "20"
-    },
-    {
-        "week": "12",
-        "winner": "Arizona Cardinals",
-        "loser": "San Francisco 49ers",
-        "winnerScore": "19",
-        "loserScore": "13"
-    },
-    {
-        "week": "12",
-        "winner": "Minnesota Vikings",
-        "loser": "Atlanta Falcons",
-        "winnerScore": "20",
-        "loserScore": "10"
-    },
-    {
-        "week": "12",
-        "winner": "Kansas City Chiefs",
-        "loser": "Buffalo Bills",
-        "winnerScore": "30",
-        "loserScore": "22"
-    },
-    {
-        "week": "12",
+        "date": "Sun, November 29",
         "winner": "San Diego Chargers",
         "loser": "Jacksonville Jaguars",
         "winnerScore": "31",
-        "loserScore": "25"
+        "loserScore": "25",
+        "winnerLogo": "img/SD.svg",
+        "loserLogo": "img/JAX.svg"
     },
     {
         "week": "12",
+        "date": "Sun, November 29",
+        "winner": "Kansas City Chiefs",
+        "loser": "Buffalo Bills",
+        "winnerScore": "30",
+        "loserScore": "22",
+        "winnerLogo": "img/KC.svg",
+        "loserLogo": "img/BUF.svg"
+    },
+    {
+        "week": "12",
+        "date": "Sun, November 29",
+        "winner": "Minnesota Vikings",
+        "loser": "Atlanta Falcons",
+        "winnerScore": "20",
+        "loserScore": "10",
+        "winnerLogo": "img/MIN.svg",
+        "loserLogo": "img/ATL.svg"
+    },
+    {
+        "week": "12",
+        "date": "Sun, November 29",
+        "winner": "New York Jets",
+        "loser": "Miami Dolphins",
+        "winnerScore": "38",
+        "loserScore": "20",
+        "winnerLogo": "img/NYJ.svg",
+        "loserLogo": "img/MIA.svg"
+    },
+    {
+        "week": "12",
+        "date": "Sun, November 29",
         "winner": "Oakland Raiders",
         "loser": "Tennessee Titans",
         "winnerScore": "24",
-        "loserScore": "21"
+        "loserScore": "21",
+        "winnerLogo": "img/OAK.svg",
+        "loserLogo": "img/TEN.svg"
     },
     {
         "week": "12",
+        "date": "Sun, November 29",
         "winner": "Denver Broncos",
         "loser": "New England Patriots",
         "winnerScore": "30",
-        "loserScore": "24"
+        "loserScore": "24",
+        "winnerLogo": "img/DEN.svg",
+        "loserLogo": "img/NE.svg"
     },
     {
         "week": "12",
+        "date": "Sun, November 29",
         "winner": "Houston Texans",
         "loser": "New Orleans Saints",
         "winnerScore": "24",
-        "loserScore": "6"
+        "loserScore": "6",
+        "winnerLogo": "img/HOU.svg",
+        "loserLogo": "img/NO.svg"
     },
     {
         "week": "12",
+        "date": "Sun, November 29",
         "winner": "Washington Redskins",
         "loser": "New York Giants",
         "winnerScore": "20",
-        "loserScore": "14"
+        "loserScore": "14",
+        "winnerLogo": "img/WAS.svg",
+        "loserLogo": "img/NYG.svg"
     },
     {
         "week": "12",
-        "winner": "Indianapolis Colts",
-        "loser": "Tampa Bay Buccaneers",
-        "winnerScore": "25",
-        "loserScore": "12"
-    },
-    {
-        "week": "12",
+        "date": "Sun, November 29",
         "winner": "Cincinnati Bengals",
         "loser": "St. Louis Rams",
         "winnerScore": "31",
-        "loserScore": "7"
+        "loserScore": "7",
+        "winnerLogo": "img/CIN.svg",
+        "loserLogo": "img/STL.svg"
     },
     {
         "week": "12",
+        "date": "Sun, November 29",
+        "winner": "Seattle Seahawks",
+        "loser": "Pittsburgh Steelers",
+        "winnerScore": "39",
+        "loserScore": "30",
+        "winnerLogo": "img/SEA.svg",
+        "loserLogo": "img/PIT.svg"
+    },
+    {
+        "week": "12",
+        "date": "Sun, November 29",
+        "winner": "Indianapolis Colts",
+        "loser": "Tampa Bay Buccaneers",
+        "winnerScore": "25",
+        "loserScore": "12",
+        "winnerLogo": "img/IND.svg",
+        "loserLogo": "img/TB.svg"
+    },
+    {
+        "week": "12",
+        "date": "Sun, November 29",
+        "winner": "Arizona Cardinals",
+        "loser": "San Francisco 49ers",
+        "winnerScore": "19",
+        "loserScore": "13",
+        "winnerLogo": "img/AZ.svg",
+        "loserLogo": "img/SF.svg"
+    },
+    {
+        "week": "12",
+        "date": "Mon, November 30",
         "winner": "Baltimore Ravens",
         "loser": "Cleveland Browns",
         "winnerScore": "33",
-        "loserScore": "27"
+        "loserScore": "27",
+        "winnerLogo": "img/BAL.svg",
+        "loserLogo": "img/CLE.svg"
     },
     {
         "week": "13",
+        "date": "Thu, December 3",
         "winner": "Green Bay Packers",
         "loser": "Detroit Lions",
         "winnerScore": "27",
-        "loserScore": "23"
+        "loserScore": "23",
+        "winnerLogo": "img/GB.svg",
+        "loserLogo": "img/DET.svg"
     },
     {
         "week": "13",
+        "date": "Sun, December 6",
         "winner": "Tampa Bay Buccaneers",
         "loser": "Atlanta Falcons",
         "winnerScore": "23",
-        "loserScore": "19"
+        "loserScore": "19",
+        "winnerLogo": "img/TB.svg",
+        "loserLogo": "img/ATL.svg"
     },
     {
         "week": "13",
+        "date": "Sun, December 6",
         "winner": "Cincinnati Bengals",
         "loser": "Cleveland Browns",
         "winnerScore": "37",
-        "loserScore": "3"
+        "loserScore": "3",
+        "winnerLogo": "img/CIN.svg",
+        "loserLogo": "img/CLE.svg"
     },
     {
         "week": "13",
+        "date": "Sun, December 6",
         "winner": "Carolina Panthers",
         "loser": "New Orleans Saints",
         "winnerScore": "41",
-        "loserScore": "38"
+        "loserScore": "38",
+        "winnerLogo": "img/CAR.svg",
+        "loserLogo": "img/NO.svg"
     },
     {
         "week": "13",
+        "date": "Sun, December 6",
         "winner": "Arizona Cardinals",
         "loser": "St. Louis Rams",
         "winnerScore": "27",
-        "loserScore": "3"
+        "loserScore": "3",
+        "winnerLogo": "img/AZ.svg",
+        "loserLogo": "img/STL.svg"
     },
     {
         "week": "13",
+        "date": "Sun, December 6",
         "winner": "Tennessee Titans",
         "loser": "Jacksonville Jaguars",
         "winnerScore": "42",
-        "loserScore": "39"
+        "loserScore": "39",
+        "winnerLogo": "img/TEN.svg",
+        "loserLogo": "img/JAX.svg"
     },
     {
         "week": "13",
+        "date": "Sun, December 6",
         "winner": "Seattle Seahawks",
         "loser": "Minnesota Vikings",
         "winnerScore": "38",
-        "loserScore": "7"
+        "loserScore": "7",
+        "winnerLogo": "img/SEA.svg",
+        "loserLogo": "img/MIN.svg"
     },
     {
         "week": "13",
+        "date": "Sun, December 6",
         "winner": "Kansas City Chiefs",
         "loser": "Oakland Raiders",
         "winnerScore": "34",
-        "loserScore": "20"
+        "loserScore": "20",
+        "winnerLogo": "img/KC.svg",
+        "loserLogo": "img/OAK.svg"
     },
     {
         "week": "13",
+        "date": "Sun, December 6",
         "winner": "Miami Dolphins",
         "loser": "Baltimore Ravens",
         "winnerScore": "15",
-        "loserScore": "13"
+        "loserScore": "13",
+        "winnerLogo": "img/MIA.svg",
+        "loserLogo": "img/BAL.svg"
     },
     {
         "week": "13",
+        "date": "Sun, December 6",
         "winner": "New York Jets",
         "loser": "New York Giants",
         "winnerScore": "23",
-        "loserScore": "20"
+        "loserScore": "20",
+        "winnerLogo": "img/NYJ.svg",
+        "loserLogo": "img/NYG.svg"
     },
     {
         "week": "13",
+        "date": "Sun, December 6",
         "winner": "Denver Broncos",
         "loser": "San Diego Chargers",
         "winnerScore": "17",
-        "loserScore": "3"
+        "loserScore": "3",
+        "winnerLogo": "img/DEN.svg",
+        "loserLogo": "img/SD.svg"
     },
     {
         "week": "13",
+        "date": "Sun, December 6",
         "winner": "Pittsburgh Steelers",
         "loser": "Indianapolis Colts",
         "winnerScore": "45",
-        "loserScore": "10"
+        "loserScore": "10",
+        "winnerLogo": "img/PIT.svg",
+        "loserLogo": "img/IND.svg"
     },
     {
         "week": "13",
+        "date": "Sun, December 6",
         "winner": "Buffalo Bills",
         "loser": "Houston Texans",
         "winnerScore": "30",
-        "loserScore": "21"
+        "loserScore": "21",
+        "winnerLogo": "img/BUF.svg",
+        "loserLogo": "img/HOU.svg"
     },
     {
         "week": "13",
+        "date": "Sun, December 6",
         "winner": "Philadelphia Eagles",
         "loser": "New England Patriots",
         "winnerScore": "35",
-        "loserScore": "28"
+        "loserScore": "28",
+        "winnerLogo": "img/PHI.svg",
+        "loserLogo": "img/NE.svg"
     },
     {
         "week": "13",
+        "date": "Sun, December 6",
         "winner": "San Francisco 49ers",
         "loser": "Chicago Bears",
         "winnerScore": "26",
-        "loserScore": "20"
+        "loserScore": "20",
+        "winnerLogo": "img/SF.svg",
+        "loserLogo": "img/CHI.svg"
     },
     {
         "week": "13",
+        "date": "Mon, December 7",
         "winner": "Dallas Cowboys",
         "loser": "Washington Redskins",
         "winnerScore": "19",
-        "loserScore": "16"
+        "loserScore": "16",
+        "winnerLogo": "img/DAL.svg",
+        "loserLogo": "img/WAS.svg"
     },
     {
         "week": "14",
+        "date": "Thu, December 10",
         "winner": "Arizona Cardinals",
         "loser": "Minnesota Vikings",
         "winnerScore": "23",
-        "loserScore": "20"
+        "loserScore": "20",
+        "winnerLogo": "img/AZ.svg",
+        "loserLogo": "img/MIN.svg"
+    },
+    {
+        "week": "14",
+        "date": "Sun, December 13",
+        "winner": "Jacksonville Jaguars",
+        "loser": "Indianapolis Colts",
+        "winnerScore": "51",
+        "loserScore": "16",
+        "winnerLogo": "img/JAX.svg",
+        "loserLogo": "img/IND.svg"
+    },
+    {
+        "week": "14",
+        "date": "Sun, December 13",
+        "winner": "New Orleans Saints",
+        "loser": "Tampa Bay Buccaneers",
+        "winnerScore": "24",
+        "loserScore": "17",
+        "winnerLogo": "img/NO.svg",
+        "loserLogo": "img/TB.svg"
+    },
+    {
+        "week": "14",
+        "date": "Sun, December 13",
+        "winner": "Philadelphia Eagles",
+        "loser": "Buffalo Bills",
+        "winnerScore": "23",
+        "loserScore": "20",
+        "winnerLogo": "img/PHI.svg",
+        "loserLogo": "img/BUF.svg"
+    },
+    {
+        "week": "14",
+        "date": "Sun, December 13",
+        "winner": "Kansas City Chiefs",
+        "loser": "San Diego Chargers",
+        "winnerScore": "10",
+        "loserScore": "3",
+        "winnerLogo": "img/KC.svg",
+        "loserLogo": "img/SD.svg"
+    },
+    {
+        "week": "14",
+        "date": "Sun, December 13",
+        "winner": "New York Jets",
+        "loser": "Tennessee Titans",
+        "winnerScore": "30",
+        "loserScore": "8",
+        "winnerLogo": "img/NYJ.svg",
+        "loserLogo": "img/TEN.svg"
+    },
+    {
+        "week": "14",
+        "date": "Sun, December 13",
+        "winner": "Seattle Seahawks",
+        "loser": "Baltimore Ravens",
+        "winnerScore": "35",
+        "loserScore": "6",
+        "winnerLogo": "img/SEA.svg",
+        "loserLogo": "img/BAL.svg"
+    },
+    {
+        "week": "14",
+        "date": "Sun, December 13",
+        "winner": "Green Bay Packers",
+        "loser": "Dallas Cowboys",
+        "winnerScore": "28",
+        "loserScore": "7",
+        "winnerLogo": "img/GB.svg",
+        "loserLogo": "img/DAL.svg"
+    },
+    {
+        "week": "14",
+        "date": "Sun, December 13",
+        "winner": "Pittsburgh Steelers",
+        "loser": "Cincinnati Bengals",
+        "winnerScore": "33",
+        "loserScore": "20",
+        "winnerLogo": "img/PIT.svg",
+        "loserLogo": "img/CIN.svg"
+    },
+    {
+        "week": "14",
+        "date": "Sun, December 13",
+        "winner": "St. Louis Rams",
+        "loser": "Detroit Lions",
+        "winnerScore": "21",
+        "loserScore": "14",
+        "winnerLogo": "img/STL.svg",
+        "loserLogo": "img/DET.svg"
+    },
+    {
+        "week": "14",
+        "date": "Sun, December 13",
+        "winner": "Washington Redskins",
+        "loser": "Chicago Bears",
+        "winnerScore": "24",
+        "loserScore": "21",
+        "winnerLogo": "img/WAS.svg",
+        "loserLogo": "img/CHI.svg"
+    },
+    {
+        "week": "14",
+        "date": "Sun, December 13",
+        "winner": "New England Patriots",
+        "loser": "Houston Texans",
+        "winnerScore": "27",
+        "loserScore": "6",
+        "winnerLogo": "img/NE.svg",
+        "loserLogo": "img/HOU.svg"
+    },
+    {
+        "week": "14",
+        "date": "Sun, December 13",
+        "winner": "Oakland Raiders",
+        "loser": "Denver Broncos",
+        "winnerScore": "15",
+        "loserScore": "12",
+        "winnerLogo": "img/OAK.svg",
+        "loserLogo": "img/DEN.svg"
+    },
+    {
+        "week": "14",
+        "date": "Sun, December 13",
+        "winner": "Cleveland Browns",
+        "loser": "San Francisco 49ers",
+        "winnerScore": "24",
+        "loserScore": "10",
+        "winnerLogo": "img/CLE.svg",
+        "loserLogo": "img/SF.svg"
+    },
+    {
+        "week": "14",
+        "date": "Sun, December 13",
+        "winner": "Carolina Panthers",
+        "loser": "Atlanta Falcons",
+        "winnerScore": "38",
+        "loserScore": "0",
+        "winnerLogo": "img/CAR.svg",
+        "loserLogo": "img/ATL.svg"
+    },
+    {
+        "week": "14",
+        "date": "Mon, December 14",
+        "winner": "New York Giants",
+        "loser": "Miami Dolphins",
+        "winnerScore": "To be determined.",
+        "loserScore": "To be determined",
+        "winnerLogo": "img/NYG.svg",
+        "loserLogo": "img/MIA.svg"
+    },
+    {
+        "week": "15",
+        "date": "Thu, December 17, 8:25 PM",
+        "visitor": "Tampa Bay Buccaneers",
+        "home": "St. Louis Rams",
+        "visitorLogo": "img/TB.svg",
+        "homeLogo": "img/STL.svg"
+    },
+    {
+        "week": "15",
+        "date": "Sat, December 19, 8:25 PM",
+        "visitor": "New York Jets",
+        "home": "Dallas Cowboys",
+        "visitorLogo": "img/NYJ.svg",
+        "homeLogo": "img/DAL.svg"
+    },
+    {
+        "week": "15",
+        "date": "Sun, December 20, 1:00 PM",
+        "visitor": "Houston Texans",
+        "home": "Indianapolis Colts",
+        "visitorLogo": "img/HOU.svg",
+        "homeLogo": "img/IND.svg"
+    },
+    {
+        "week": "15",
+        "date": "Sun, December 20, 1:00 PM",
+        "visitor": "Atlanta Falcons",
+        "home": "Jacksonville Jaguars",
+        "visitorLogo": "img/ATL.svg",
+        "homeLogo": "img/JAX.svg"
+    },
+    {
+        "week": "15",
+        "date": "Sun, December 20, 1:00 PM",
+        "visitor": "Chicago Bears",
+        "home": "Minnesota Vikings",
+        "visitorLogo": "img/CHI.svg",
+        "homeLogo": "img/MIN.svg"
+    },
+    {
+        "week": "15",
+        "date": "Sun, December 20, 1:00 PM",
+        "visitor": "Tennessee Titans",
+        "home": "New England Patriots",
+        "visitorLogo": "img/TEN.svg",
+        "homeLogo": "img/NE.svg"
+    },
+    {
+        "week": "15",
+        "date": "Sun, December 20, 1:00 PM",
+        "visitor": "Carolina Panthers",
+        "home": "New York Giants",
+        "visitorLogo": "img/CAR.svg",
+        "homeLogo": "img/NYG.svg"
+    },
+    {
+        "week": "15",
+        "date": "Sun, December 20, 1:00 PM",
+        "visitor": "Kansas City Chiefs",
+        "home": "Baltimore Ravens",
+        "visitorLogo": "img/KC.svg",
+        "homeLogo": "img/BAL.svg"
+    },
+    {
+        "week": "15",
+        "date": "Sun, December 20, 1:00 PM",
+        "visitor": "Buffalo Bills",
+        "home": "Washington Redskins",
+        "visitorLogo": "img/BUF.svg",
+        "homeLogo": "img/WAS.svg"
+    },
+    {
+        "week": "15",
+        "date": "Sun, December 20, 4:05 PM",
+        "visitor": "Green Bay Packers",
+        "home": "Oakland Raiders",
+        "visitorLogo": "img/GB.svg",
+        "homeLogo": "img/OAK.svg"
+    },
+    {
+        "week": "15",
+        "date": "Sun, December 20, 4:05 PM",
+        "visitor": "Cleveland Browns",
+        "home": "Seattle Seahawks",
+        "visitorLogo": "img/CLE.svg",
+        "homeLogo": "img/SEA.svg"
+    },
+    {
+        "week": "15",
+        "date": "Sun, December 20, 4:25 PM",
+        "visitor": "Denver Broncos",
+        "home": "Pittsburgh Steelers",
+        "visitorLogo": "img/DEN.svg",
+        "homeLogo": "img/PIT.svg"
+    },
+    {
+        "week": "15",
+        "date": "Sun, December 20, 4:25 PM",
+        "visitor": "Miami Dolphins",
+        "home": "San Diego Chargers",
+        "visitorLogo": "img/MIA.svg",
+        "homeLogo": "img/SD.svg"
+    },
+    {
+        "week": "15",
+        "date": "Sun, December 20, 4:25 PM",
+        "visitor": "Cincinnati Bengals",
+        "home": "San Francisco 49ers",
+        "visitorLogo": "img/CIN.svg",
+        "homeLogo": "img/SF.svg"
+    },
+    {
+        "week": "15",
+        "date": "Sun, December 20, 8:30 PM",
+        "visitor": "Arizona Cardinals",
+        "home": "Philadelphia Eagles",
+        "visitorLogo": "img/AZ.svg",
+        "homeLogo": "img/PHI.svg"
+    },
+    {
+        "week": "15",
+        "date": "Mon, December 21, 8:30 PM",
+        "visitor": "Detroit Lions",
+        "home": "New Orleans Saints",
+        "visitorLogo": "img/DET.svg",
+        "homeLogo": "img/NO.svg"
+    },
+    {
+        "week": "16",
+        "date": "Thu, December 24, 8:25 PM",
+        "visitor": "San Diego Chargers",
+        "home": "Oakland Raiders",
+        "visitorLogo": "img/SD.svg",
+        "homeLogo": "img/OAK.svg"
+    },
+    {
+        "week": "16",
+        "date": "Sat, December 26, 8:25 PM",
+        "visitor": "Washington Redskins",
+        "home": "Philadelphia Eagles",
+        "visitorLogo": "img/WAS.svg",
+        "homeLogo": "img/PHI.svg"
+    },
+    {
+        "week": "16",
+        "date": "Sun, December 27, 1:00 PM",
+        "visitor": "Carolina Panthers",
+        "home": "Atlanta Falcons",
+        "visitorLogo": "img/CAR.svg",
+        "homeLogo": "img/ATL.svg"
+    },
+    {
+        "week": "16",
+        "date": "Sun, December 27, 1:00 PM",
+        "visitor": "Dallas Cowboys",
+        "home": "Buffalo Bills",
+        "visitorLogo": "img/DAL.svg",
+        "homeLogo": "img/BUF.svg"
+    },
+    {
+        "week": "16",
+        "date": "Sun, December 27, 1:00 PM",
+        "visitor": "San Francisco 49ers",
+        "home": "Detroit Lions",
+        "visitorLogo": "img/SF.svg",
+        "homeLogo": "img/DET.svg"
+    },
+    {
+        "week": "16",
+        "date": "Sun, December 27, 1:00 PM",
+        "visitor": "Cleveland Browns",
+        "home": "Kansas City Chiefs",
+        "visitorLogo": "img/CLE.svg",
+        "homeLogo": "img/KC.svg"
+    },
+    {
+        "week": "16",
+        "date": "Sun, December 27, 1:00 PM",
+        "visitor": "Indianapolis Colts",
+        "home": "Miami Dolphins",
+        "visitorLogo": "img/IND.svg",
+        "homeLogo": "img/MIA.svg"
+    },
+    {
+        "week": "16",
+        "date": "Sun, December 27, 1:00 PM",
+        "visitor": "New York Giants",
+        "home": "Minnesota Vikings",
+        "visitorLogo": "img/NYG.svg",
+        "homeLogo": "img/MIN.svg"
+    },
+    {
+        "week": "16",
+        "date": "Sun, December 27, 1:00 PM",
+        "visitor": "Jacksonville Jaguars",
+        "home": "New Orleans Saints",
+        "visitorLogo": "img/JAX.svg",
+        "homeLogo": "img/NO.svg"
+    },
+    {
+        "week": "16",
+        "date": "Sun, December 27, 1:00 PM",
+        "visitor": "New England Patriots",
+        "home": "New York Jets",
+        "visitorLogo": "img/NE.svg",
+        "homeLogo": "img/NYJ.svg"
+    },
+    {
+        "week": "16",
+        "date": "Sun, December 27, 1:00 PM",
+        "visitor": "Houston Texans",
+        "home": "Tennessee Titans",
+        "visitorLogo": "img/HOU.svg",
+        "homeLogo": "img/TEN.svg"
+    },
+    {
+        "week": "16",
+        "date": "Sun, December 27, 1:00 PM",
+        "visitor": "Chicago Bears",
+        "home": "Tampa Bay Buccaneers",
+        "visitorLogo": "img/CHI.svg",
+        "homeLogo": "img/TB.svg"
+    },
+    {
+        "week": "16",
+        "date": "Sun, December 27, 4:25 PM",
+        "visitor": "Green Bay Packers",
+        "home": "Arizona Cardinals",
+        "visitorLogo": "img/GB.svg",
+        "homeLogo": "img/AZ.svg"
+    },
+    {
+        "week": "16",
+        "date": "Sun, December 27, 4:25 PM",
+        "visitor": "St. Louis Rams",
+        "home": "Seattle Seahawks",
+        "visitorLogo": "img/STL.svg",
+        "homeLogo": "img/SEA.svg"
+    },
+    {
+        "week": "16",
+        "date": "Sun, December 27, 8:30 PM",
+        "visitor": "Pittsburgh Steelers",
+        "home": "Baltimore Ravens",
+        "visitorLogo": "img/PIT.svg",
+        "homeLogo": "img/BAL.svg"
+    },
+    {
+        "week": "16",
+        "date": "Mon, December 28, 8:30 PM",
+        "visitor": "Cincinnati Bengals",
+        "home": "Denver Broncos",
+        "visitorLogo": "img/CIN.svg",
+        "homeLogo": "img/DEN.svg"
+    },
+    {
+        "week": "17",
+        "date": "Sun, January 3, 1:00 PM",
+        "visitor": "New Orleans Saints",
+        "home": "Atlanta Falcons",
+        "visitorLogo": "img/NO.svg",
+        "homeLogo": "img/ATL.svg"
+    },
+    {
+        "week": "17",
+        "date": "Sun, January 3, 1:00 PM",
+        "visitor": "New York Jets",
+        "home": "Buffalo Bills",
+        "visitorLogo": "img/NYJ.svg",
+        "homeLogo": "img/BUF.svg"
+    },
+    {
+        "week": "17",
+        "date": "Sun, January 3, 1:00 PM",
+        "visitor": "Tampa Bay Buccaneers",
+        "home": "Carolina Panthers",
+        "visitorLogo": "img/TB.svg",
+        "homeLogo": "img/CAR.svg"
+    },
+    {
+        "week": "17",
+        "date": "Sun, January 3, 1:00 PM",
+        "visitor": "Detroit Lions",
+        "home": "Chicago Bears",
+        "visitorLogo": "img/DET.svg",
+        "homeLogo": "img/CHI.svg"
+    },
+    {
+        "week": "17",
+        "date": "Sun, January 3, 1:00 PM",
+        "visitor": "Baltimore Ravens",
+        "home": "Cincinnati Bengals",
+        "visitorLogo": "img/BAL.svg",
+        "homeLogo": "img/CIN.svg"
+    },
+    {
+        "week": "17",
+        "date": "Sun, January 3, 1:00 PM",
+        "visitor": "Pittsburgh Steelers",
+        "home": "Cleveland Browns",
+        "visitorLogo": "img/PIT.svg",
+        "homeLogo": "img/CLE.svg"
+    },
+    {
+        "week": "17",
+        "date": "Sun, January 3, 1:00 PM",
+        "visitor": "Tennessee Titans",
+        "home": "Indianapolis Colts",
+        "visitorLogo": "img/TEN.svg",
+        "homeLogo": "img/IND.svg"
+    },
+    {
+        "week": "17",
+        "date": "Sun, January 3, 1:00 PM",
+        "visitor": "Washington Redskins",
+        "home": "Dallas Cowboys",
+        "visitorLogo": "img/WAS.svg",
+        "homeLogo": "img/DAL.svg"
+    },
+    {
+        "week": "17",
+        "date": "Sun, January 3, 1:00 PM",
+        "visitor": "Minnesota Vikings",
+        "home": "Green Bay Packers",
+        "visitorLogo": "img/MIN.svg",
+        "homeLogo": "img/GB.svg"
+    },
+    {
+        "week": "17",
+        "date": "Sun, January 3, 1:00 PM",
+        "visitor": "Jacksonville Jaguars",
+        "home": "Houston Texans",
+        "visitorLogo": "img/JAX.svg",
+        "homeLogo": "img/HOU.svg"
+    },
+    {
+        "week": "17",
+        "date": "Sun, January 3, 1:00 PM",
+        "visitor": "Oakland Raiders",
+        "home": "Kansas City Chiefs",
+        "visitorLogo": "img/OAK.svg",
+        "homeLogo": "img/KC.svg"
+    },
+    {
+        "week": "17",
+        "date": "Sun, January 3, 1:00 PM",
+        "visitor": "New England Patriots",
+        "home": "Miami Dolphins",
+        "visitorLogo": "img/NE.svg",
+        "homeLogo": "img/MIA.svg"
+    },
+    {
+        "week": "17",
+        "date": "Sun, January 3, 1:00 PM",
+        "visitor": "Philadelphia Eagles",
+        "home": "New York Giants",
+        "visitorLogo": "img/PHI.svg",
+        "homeLogo": "img/NYG.svg"
+    },
+    {
+        "week": "17",
+        "date": "Sun, January 3, 4:25 PM",
+        "visitor": "Seattle Seahawks",
+        "home": "Arizona Cardinals",
+        "visitorLogo": "img/SEA.svg",
+        "homeLogo": "img/AZ.svg"
+    },
+    {
+        "week": "17",
+        "date": "Sun, January 3, 4:25 PM",
+        "visitor": "San Diego Chargers",
+        "home": "Denver Broncos",
+        "visitorLogo": "img/SD.svg",
+        "homeLogo": "img/DEN.svg"
+    },
+    {
+        "week": "17",
+        "date": "Sun, January 3, 4:25 PM",
+        "visitor": "St. Louis Rams",
+        "home": "San Francisco 49ers",
+        "visitorLogo": "img/STL.svg",
+        "homeLogo": "img/SF.svg"
     }
 ]

@@ -8,6 +8,10 @@ module.exports = function(app) {
         res.sendFile(path.resolve('./schedule.json'))
     });
 
+    app.get('/standings.json', function(req, res){
+        res.sendFile(path.resolve('./standings.json'))
+    });
+
     app.get('*', function(req, res) {
         res.sendfile('./public/views/index.html'); // load our public/index.html file
     });

@@ -5,6 +5,7 @@ var bodyParser        = require('body-parser');
 var methodOverride    = require('method-override');
 var CronJob        = require('cron').CronJob;
 var scheduleScraper   = require('./app/taskRunners/schedule');
+var standingsScraper = require('./app/taskRunners/standings');
 
 // set our port
 var port = process.env.PORT || 8080;
@@ -42,6 +43,7 @@ console.log('Magic happens on port ' + port);
 
 //run scrapers
 scheduleScraper.runScraper();
+standingsScraper.runScraper();
 
 
 // expose app

@@ -18,11 +18,15 @@
 </table>
 -->
 <div layout-padding flex>
-    <md-data-table
+    <md-data-table ng-repeat= "(key, value) in standings | groupBy: 'division'"
             table-card="{visible: tableCardIsEnabled}"
             selectable-rows="tableIsSelectable"
             alternate-headers="'contextual'"
             sortable-columns="tableIsSortable">
+        <md-data-table-header-row>
+            <md-data-table-column>{{key}}</md-data-table-column>
+
+        </md-data-table-header-row>
 
         <md-data-table-header-row>
             <md-data-table-column>Team</md-data-table-column>
@@ -33,10 +37,10 @@
 
         <md-data-table-row
                 table-row-id="nutrition.id"
-                ng-repeat="nutrition in nutritionList">
-            <md-data-table-cell>{{nutrition.name}}</md-data-table-cell>
-            <md-data-table-cell>{{nutrition.calories}}</md-data-table-cell>
-            <md-data-table-cell>{{nutrition.fat}}</md-data-table-cell>
+                ng-repeat="team in value">
+            <md-data-table-cell>{{team.team}}</md-data-table-cell>
+            <md-data-table-cell>{{team.wins}}</md-data-table-cell>
+            <md-data-table-cell>{{team.losses}}</md-data-table-cell>
         </md-data-table-row>
     </md-data-table>
 </div>

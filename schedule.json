@@ -2266,22 +2266,6 @@
     {
         "week": "16",
         "date": "Sun, December 27, 1:00 PM",
-        "visitor": "New York Giants",
-        "home": "Minnesota Vikings",
-        "visitorLogo": "img/NYG.svg",
-        "homeLogo": "img/MIN.svg"
-    },
-    {
-        "week": "16",
-        "date": "Sun, December 27, 1:00 PM",
-        "visitor": "Jacksonville Jaguars",
-        "home": "New Orleans Saints",
-        "visitorLogo": "img/JAX.svg",
-        "homeLogo": "img/NO.svg"
-    },
-    {
-        "week": "16",
-        "date": "Sun, December 27, 1:00 PM",
         "visitor": "New England Patriots",
         "home": "New York Jets",
         "visitorLogo": "img/NE.svg",
@@ -2298,10 +2282,26 @@
     {
         "week": "16",
         "date": "Sun, December 27, 1:00 PM",
+        "visitor": "Pittsburgh Steelers",
+        "home": "Baltimore Ravens",
+        "visitorLogo": "img/PIT.svg",
+        "homeLogo": "img/BAL.svg"
+    },
+    {
+        "week": "16",
+        "date": "Sun, December 27, 1:00 PM",
         "visitor": "Chicago Bears",
         "home": "Tampa Bay Buccaneers",
         "visitorLogo": "img/CHI.svg",
         "homeLogo": "img/TB.svg"
+    },
+    {
+        "week": "16",
+        "date": "Sun, December 27, 4:05 PM",
+        "visitor": "Jacksonville Jaguars",
+        "home": "New Orleans Saints",
+        "visitorLogo": "img/JAX.svg",
+        "homeLogo": "img/NO.svg"
     },
     {
         "week": "16",
@@ -2322,10 +2322,10 @@
     {
         "week": "16",
         "date": "Sun, December 27, 8:30 PM",
-        "visitor": "Pittsburgh Steelers",
-        "home": "Baltimore Ravens",
-        "visitorLogo": "img/PIT.svg",
-        "homeLogo": "img/BAL.svg"
+        "visitor": "New York Giants",
+        "home": "Minnesota Vikings",
+        "visitorLogo": "img/NYG.svg",
+        "homeLogo": "img/MIN.svg"
     },
     {
         "week": "16",

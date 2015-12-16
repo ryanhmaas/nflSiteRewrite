@@ -1,1 +1,42 @@
-<div>WHATTUP</div>
+<!--
+<table ng-repeat= "(key, value) in standings | groupBy: 'division'">
+  <tr>
+    <th>{{key}}</th>
+  </tr>
+  <tr>
+    <th>Team</th>
+    <th>Wins</th>
+    <th>Losses</th>
+  </tr>
+  <tbody>
+    <tr ng-repeat = "team in value">
+      <td>{{team.team}}</td>
+      <td>{{team.wins}}</td>
+      <td>{{team.losses}}</td>
+    </tr>
+  </tbody>
+</table>
+-->
+<div layout-padding flex>
+    <md-data-table
+            table-card="{visible: tableCardIsEnabled}"
+            selectable-rows="tableIsSelectable"
+            alternate-headers="'contextual'"
+            sortable-columns="tableIsSortable">
+
+        <md-data-table-header-row>
+            <md-data-table-column>Team</md-data-table-column>
+            <md-data-table-column >wins</md-data-table-column>
+            <md-data-table-column>Losses</md-data-table-column>
+
+        </md-data-table-header-row>
+
+        <md-data-table-row
+                table-row-id="nutrition.id"
+                ng-repeat="nutrition in nutritionList">
+            <md-data-table-cell>{{nutrition.name}}</md-data-table-cell>
+            <md-data-table-cell>{{nutrition.calories}}</md-data-table-cell>
+            <md-data-table-cell>{{nutrition.fat}}</md-data-table-cell>
+        </md-data-table-row>
+    </md-data-table>
+</div>

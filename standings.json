@@ -1,0 +1,194 @@
+[
+    {
+        "team": "New England",
+        "division": "AFC East",
+        "wins": "11",
+        "losses": "2"
+    },
+    {
+        "team": "N.Y. Jets",
+        "division": "AFC East",
+        "wins": "8",
+        "losses": "5"
+    },
+    {
+        "team": "Buffalo",
+        "division": "AFC East",
+        "wins": "6",
+        "losses": "7"
+    },
+    {
+        "team": "Miami",
+        "division": "AFC East",
+        "wins": "5",
+        "losses": "8"
+    },
+    {
+        "team": "Cincinnati",
+        "division": "AFC North",
+        "wins": "10",
+        "losses": "3"
+    },
+    {
+        "team": "Pittsburgh",
+        "division": "AFC North",
+        "wins": "8",
+        "losses": "5"
+    },
+    {
+        "team": "Baltimore",
+        "division": "AFC North",
+        "wins": "4",
+        "losses": "9"
+    },
+    {
+        "team": "Cleveland",
+        "division": "AFC North",
+        "wins": "3",
+        "losses": "10"
+    },
+    {
+        "team": "Indianapolis",
+        "division": "AFC South",
+        "wins": "6",
+        "losses": "7"
+    },
+    {
+        "team": "Houston",
+        "division": "AFC South",
+        "wins": "6",
+        "losses": "7"
+    },
+    {
+        "team": "Jacksonville",
+        "division": "AFC South",
+        "wins": "5",
+        "losses": "8"
+    },
+    {
+        "team": "Tennessee",
+        "division": "AFC South",
+        "wins": "3",
+        "losses": "10"
+    },
+    {
+        "team": "Denver",
+        "division": "AFC West",
+        "wins": "10",
+        "losses": "3"
+    },
+    {
+        "team": "Kansas City",
+        "division": "AFC West",
+        "wins": "8",
+        "losses": "5"
+    },
+    {
+        "team": "Oakland",
+        "division": "AFC West",
+        "wins": "6",
+        "losses": "7"
+    },
+    {
+        "team": "San Diego",
+        "division": "AFC West",
+        "wins": "3",
+        "losses": "10"
+    },
+    {
+        "team": "Washington",
+        "division": "NFC East",
+        "wins": "6",
+        "losses": "7"
+    },
+    {
+        "team": "Philadelphia",
+        "division": "NFC East",
+        "wins": "6",
+        "losses": "7"
+    },
+    {
+        "team": "N.Y. Giants",
+        "division": "NFC East",
+        "wins": "6",
+        "losses": "7"
+    },
+    {
+        "team": "Dallas",
+        "division": "NFC East",
+        "wins": "4",
+        "losses": "9"
+    },
+    {
+        "team": "Green Bay",
+        "division": "NFC North",
+        "wins": "9",
+        "losses": "4"
+    },
+    {
+        "team": "Minnesota",
+        "division": "NFC North",
+        "wins": "8",
+        "losses": "5"
+    },
+    {
+        "team": "Chicago",
+        "division": "NFC North",
+        "wins": "5",
+        "losses": "8"
+    },
+    {
+        "team": "Detroit",
+        "division": "NFC North",
+        "wins": "4",
+        "losses": "9"
+    },
+    {
+        "team": "Carolina",
+        "division": "NFC South",
+        "wins": "13",
+        "losses": "0"
+    },
+    {
+        "team": "Tampa Bay",
+        "division": "NFC South",
+        "wins": "6",
+        "losses": "7"
+    },
+    {
+        "team": "Atlanta",
+        "division": "NFC South",
+        "wins": "6",
+        "losses": "7"
+    },
+    {
+        "team": "New Orleans",
+        "division": "NFC South",
+        "wins": "5",
+        "losses": "8"
+    },
+    {
+        "team": "Arizona",
+        "division": "NFC West",
+        "wins": "11",
+        "losses": "2"
+    },
+    {
+        "team": "Seattle",
+        "division": "NFC West",
+        "wins": "8",
+        "losses": "5"
+    },
+    {
+        "team": "St. Louis",
+        "division": "NFC West",
+        "wins": "5",
+        "losses": "8"
+    },
+    {
+        "team": "San Francisco",
+        "division": "NFC West",
+        "wins": "4",
+        "losses": "9"
+    }
+]

@@ -1,1 +1,1 @@
-angular.module('app', ['ngMaterial', 'ngMdIcons', 'themeConfig', 'userAv', 'appRoutes', 'MainCtrl', 'ContactCtrl', 'ScheduleCtrl']);
+angular.module('app', ['ngMaterial', 'ngMdIcons', 'themeConfig', 'userAv', 'appRoutes', 'MainCtrl', 'ContactCtrl', 'ScheduleCtrl', 'StandingsCtrl', 'mdDataTable']);

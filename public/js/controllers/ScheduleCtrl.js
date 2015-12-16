@@ -1,4 +1,4 @@
-angular.module('ScheduleCtrl', ['ngMaterial'])
+angular.module('ScheduleCtrl', ['ngMaterial', 'angular.filter'])
   .controller('ScheduleController', function($scope, $http){
     $http.get('schedule.json').success(function(data) {
       $scope.schedule = data;

@@ -1,11 +1,12 @@
 {
-    "name": "nflsiterewrite",
-    "version": "1.0.0",
-    "dependencies": {
-        "font-awesome": "latest",
-        "animate.css": "latest",
-        "angular": "latest",
-        "angular-route": "latest",
-        "angular-material": "latest"
-    }
+  "name": "nflsiterewrite",
+  "version": "1.0.0",
+  "dependencies": {
+    "font-awesome": "latest",
+    "animate.css": "latest",
+    "angular": "latest",
+    "angular-route": "latest",
+    "angular-material": "latest",
+    "md-data-table": "*"
+  }
 }

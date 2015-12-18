@@ -17,30 +17,51 @@
   </tbody>
 </table>
 -->
-<div layout-padding flex>
-    <md-data-table ng-repeat= "(key, value) in standings | groupBy: 'division'"
-            table-card="{visible: tableCardIsEnabled}"
-            selectable-rows="tableIsSelectable"
-            alternate-headers="'contextual'"
-            sortable-columns="tableIsSortable">
-        <md-data-table-header-row>
-            <md-data-table-column>{{key}}</md-data-table-column>
-
-        </md-data-table-header-row>
-
-        <md-data-table-header-row>
-            <md-data-table-column>Team</md-data-table-column>
-            <md-data-table-column >wins</md-data-table-column>
-            <md-data-table-column>Losses</md-data-table-column>
-
-        </md-data-table-header-row>
-
-        <md-data-table-row
-                table-row-id="nutrition.id"
-                ng-repeat="team in value">
-            <md-data-table-cell>{{team.team}}</md-data-table-cell>
-            <md-data-table-cell>{{team.wins}}</md-data-table-cell>
-            <md-data-table-cell>{{team.losses}}</md-data-table-cell>
-        </md-data-table-row>
-    </md-data-table>
+<!--
+<div class="container">
+  <div class="panel panel-info" ng-repeat= "(key, value) in standings | groupBy: 'division'">
+      <div class="panel-heading">{{key}}</div>
+      <div class="panel-body">
+        <table>
+          <thead>
+              <th class="col-md-4">Team</th>
+              <th class="col-md-4">Wins</th>
+              <th class="col-md-4">Losses</th>
+          </thead>
+          <tbody>
+            <tr ng-repeat = "team in value">
+              <td class="col-md-4">{{team.team}}</td>
+              <td class="col-md-4">{{team.wins}}</td>
+              <td class="col-md-4">{{team.losses}}</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+  </div>
 </div>
+-->
+<md-grid-list
+  md-cols-sm="1" md-cols-md="2" md-cols-lg="3" md-cols-gt-lg="4"
+  md-row-height-gt-md="1.2:1" md-row-height="1:1"
+  md-gutter="50px" md-gutter-gt-sm="50px">
+
+<!--set to true to use strict comparison, otherwise it'll return values that contain others
+such as 12 when you select 2-->
+  <md-grid-tile ng-repeat= "(key, value) in standings | groupBy: 'division'" class="division">
+    <p>{{key}}</p>
+    <table>
+      <thead>
+        <th>Team</th>
+        <th>Wins</th>
+        <th>Losses</th>
+      </thead>
+      <tbody>
+        <tr ng-repeat = "team in value">
+          <td class="col-md-4">{{team.team}}</td>
+          <td class="col-md-4">{{team.wins}}</td>
+          <td class="col-md-4">{{team.losses}}</td>
+        </tr>
+      </tbody>
+    </table>
+  </md-grid-tile>
+</md-grid-list>

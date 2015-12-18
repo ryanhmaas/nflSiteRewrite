@@ -150,16 +150,16 @@
         "losses": "0"
     },
     {
-        "team": "Tampa Bay",
+        "team": "Atlanta",
         "division": "NFC South",
         "wins": "6",
         "losses": "7"
     },
     {
-        "team": "Atlanta",
+        "team": "Tampa Bay",
         "division": "NFC South",
         "wins": "6",
-        "losses": "7"
+        "losses": "8"
     },
     {
         "team": "New Orleans",
@@ -182,7 +182,7 @@
     {
         "team": "St. Louis",
         "division": "NFC West",
-        "wins": "5",
+        "wins": "6",
         "losses": "8"
     },
     {

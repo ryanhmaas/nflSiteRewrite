@@ -14,6 +14,11 @@ angular.module('appRoutes', ['ngRoute']).config(['$routeProvider', '$locationPro
           controller: 'ContactController'
       })
 
+      .when('/stats', {
+          templateUrl: 'views/stats.html',
+          controller: 'StatsController'
+      })
+
       .when('/schedule', {
         templateUrl: 'views/schedule.html',
         controller: 'ScheduleController'

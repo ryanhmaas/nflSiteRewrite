@@ -1,13 +1,25 @@
+var request        = require('request');
+var cheerio        = require('cheerio');
+var fs             = require('fs');
+var MongoClient    = require('mongodb').MongoClient;
+
 module.exports = {
   runScraper: function(){
-    var request        = require('request');
-    var cheerio        = require('cheerio');
-    var fs             = require('fs');
     request('http://www.pro-football-reference.com/years/2015/games.htm', function(error, response, html){
         if(!error && response.statusCode == 200){
           var $ = cheerio.load(html);
           var jsonArr = [];
-          var weekArr = [];
+
+          var curWeek = -1;
+          $('#games tbody tr').each(function(i, element){
+            var week = parseInt($(element).children($('td')).eq(0).text());
+            if(week > curWeek){
+              curWeek = week;
+            }
+          });
+
+          console.log(curWeek + 'is the current week');
+
 
           //get done games
           $('#games tbody tr').not('.thead').each(function(i, element){
@@ -29,6 +41,8 @@ module.exports = {
             winnerLogo = getTeamLogo(winner);
             loserLogo =  getTeamLogo(loser);
 
+            isCurWeek = isInCurrentWeek(week, curWeek);
+
             var gameData = {
               week: week,
               date: date,
@@ -37,7 +51,8 @@ module.exports = {
               winnerScore: winnerScore,
               loserScore: loserScore,
               winnerLogo: winnerLogo,
-              loserLogo: loserLogo
+              loserLogo: loserLogo,
+              isCurWeek: isCurWeek
             }
             jsonArr.push(gameData);
           });
@@ -175,4 +190,16 @@ function getTeamLogo(team){
       break;
   }
   return logo;
+}
+
+function isInCurrentWeek(teamWeek, currentWeek){
+  if(teamWeek < currentWeek){
+    return false;
+  }
+  else if(teamWeek == currentWeek){
+    return true;
+  }
+  else{
+    throw new UserException("This is impossible");
+  }
 }

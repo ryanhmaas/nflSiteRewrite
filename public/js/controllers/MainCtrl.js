@@ -18,7 +18,7 @@ angular.module('MainCtrl', ['ngMaterial', 'ngMdIcons'])
       icon: 'fa fa-list-alt'
     },
     {
-      link : '/contact',
+      link : '/stats',
       title: 'Stats',
 			class: 'sidenav-item-link',
       icon: 'fa fa-line-chart'

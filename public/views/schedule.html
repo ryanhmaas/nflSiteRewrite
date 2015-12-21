@@ -1,11 +1,15 @@
-<div layout="row">
-   <md-input-container style="margin-right: 10px;">
-     <label>Week</label>
-     <md-select ng-model="weekFilter">
-       <md-option ng-repeat="week in weeks " value="{{week}}">{{week}}</md-option>
-     </md-select>
-   </md-input-container>
- </div>
+<div class="container">
+  <div class="row">
+    <br>
+    <div class="col-md-5"></div>
+    <div class="col-md-2">
+      <label class="radio-inline" for="weekSelect">Week</label>
+      <select class="form-control" name="weekSelect" default= "weekFilter  = options[0]" ng-model= "weekFilter"  ng-options= "option.value as option.name for option in options">
+      </select>
+    </div>
+    <div class="col-md-5"></div>
+  </div>
+</div>
 
 <md-grid-list
   md-cols-sm="1" md-cols-md="2" md-cols-lg="3" md-cols-gt-lg="4"

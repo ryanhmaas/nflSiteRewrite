@@ -17,7 +17,7 @@
   </tbody>
 </table>
 -->
-<!--
+
 <div class="container">
   <div class="panel panel-info" ng-repeat= "(key, value) in standings | groupBy: 'division'">
       <div class="panel-heading">{{key}}</div>
@@ -39,14 +39,9 @@
       </div>
   </div>
 </div>
--->
-<md-grid-list
-  md-cols-sm="1" md-cols-md="2" md-cols-lg="3" md-cols-gt-lg="4"
-  md-row-height-gt-md="1.2:1" md-row-height="1:1"
-  md-gutter="50px" md-gutter-gt-sm="50px">
 
-<!--set to true to use strict comparison, otherwise it'll return values that contain others
-such as 12 when you select 2-->
+<!--
+
   <md-grid-tile ng-repeat= "(key, value) in standings | groupBy: 'division'" class="division">
     <p>{{key}}</p>
     <table>

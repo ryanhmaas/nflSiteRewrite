@@ -45,19 +45,19 @@
         </div>
       </md-toolbar>
       <md-list>
-      <md-item ng-repeat="item in menu">
-        <a href="{{item.link}}" class="{{item.class}}" ng-click="toggleSidenav('left')">
-          <md-item-content md-ink-ripple layout="row" layout-align="start center">
-            <div class="inset">
-              <i class="{{item.icon}}"></i>
-            </div>
-            <div class="inset">{{item.title}}
-            </div>
-          </md-item-content>
-        </a>
-      </md-item>
+        <md-item ng-repeat="item in menu">
+          <a href="{{item.link}}" class="{{item.class}}" ng-click="toggleSidenav('left')">
+            <md-item-content md-ink-ripple layout="row" layout-align="start center">
+              <div class="inset">
+                <i class="{{item.icon}}"></i>
+              </div>
+              <div class="inset">{{item.title}}
+              </div>
+            </md-item-content>
+          </a>
+        </md-item>
       <md-divider></md-divider>
-    </md-list>
+      </md-list>
     </md-sidenav>
     <div layout="column" class="relative" layout-fill role="main">
       <md-toolbar ng-show="!showSearch">
@@ -74,9 +74,12 @@
       <md-content flex md-scroll-y ng-view>
 
       </md-content>
+      <footer>
+        <p>footer</p>
+      </footer>
     </div>
-
       <!-- Angular Material Dependencies -->
-    <script src="//cdn.jsdelivr.net/angular-material-icons/0.4.0/angular-material-icons.min.js"></script>
+      <script src="//cdn.jsdelivr.net/angular-material-icons/0.4.0/angular-material-icons.min.js"></script>
   </body>
+
 </html>

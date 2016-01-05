@@ -42,8 +42,8 @@ console.log('Magic happens on port ' + port);
 
 
 //run scrapers
-//scheduleScraper.runScraper();
-// standingsScraper.runScraper();
+scheduleScraper.runScraper();
+standingsScraper.runScraper();
 
 
 // expose app

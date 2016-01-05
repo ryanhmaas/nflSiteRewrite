@@ -3,9 +3,14 @@ md-card {
 }
 
 main {
-  min-height: calc(100vh - 176px);
+  min-height: calc(100vh - 64px);
 }
 
+footer{
+  height:64px;
+  background: #0291D1;
+  color: #FFFFFF;
+}
 
 .contactEmail{
   border-radius:13px;
@@ -42,7 +47,7 @@ md-sidenav {
   fill: #737373;
   ng-md-icon {
     position: relative;
-    top: 5px; // adjust for svg viewbox
+    top: 5px; //adjust for svg viewbox
   }
 }
 

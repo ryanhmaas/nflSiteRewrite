@@ -1,7 +1,13 @@
-var request        = require('request');
-var cheerio        = require('cheerio');
-var fs             = require('fs');
-var MongoClient    = require('mongodb').MongoClient;
+var request           = require('request');
+var cheerio           = require('cheerio');
+var fs                = require('fs');
+var file              = "mydb.db";
+var exists            = fs.existsSync(file);
+
+var sqlite3           = require('sqlite3').verbose();
+var db                = new sqlite3.Database(file);
+
+
 
 module.exports = {
   runScraper: function(){
@@ -9,6 +15,16 @@ module.exports = {
         if(!error && response.statusCode == 200){
           var $ = cheerio.load(html);
           var jsonArr = [];
+          db.serialize(function(){
+            var stmt = db.prepare("INSERT INTO Games VALUES (?,?,?)");
+
+            stmt.finalize();
+
+            db.each("SELECT * FROM Games", function(err, row) {
+                console.log(row.id + ": " + row.game_id);
+              });
+          });
+
 
           var curWeek = -1;
           $('#games tbody tr').each(function(i, element){
@@ -17,9 +33,6 @@ module.exports = {
               curWeek = week;
             }
           });
-
-          console.log(curWeek + 'is the current week');
-
 
           //get done games
           $('#games tbody tr').not('.thead').each(function(i, element){

@@ -6,7 +6,7 @@ var methodOverride    = require('method-override');
 var CronJob           = require('cron').CronJob;
 var scheduleScraper   = require('./app/taskRunners/schedule');
 var standingsScraper  = require('./app/taskRunners/standings');
-
+var dataUpdater       = require('./app/taskRunners/dataUpdate');
 
 
 // set our port
@@ -31,6 +31,10 @@ app.use(methodOverride('X-HTTP-Method-Override'));
 
 // set the static files location /public/img will be /img for users
 app.use(express.static(__dirname + '/public'));
+
+
+//update our data
+dataUpdater.updateData();
 
 // routes ==================================================
 require('./app/routes')(app); // configure our routes
